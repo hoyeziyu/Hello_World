@@ -24,8 +24,32 @@
         <mxCell id="oGX236ngwEXMZTwFb6us-4" value="&lt;span style=&quot;color: rgb(45, 49, 64); font-family: &amp;quot;Open Sans&amp;quot;; font-size: 18px; font-weight: 700; letter-spacing: 0.25px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;类型&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="200" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="oGX236ngwEXMZTwFb6us-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oGX236ngwEXMZTwFb6us-5" target="oGX236ngwEXMZTwFb6us-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oGX236ngwEXMZTwFb6us-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oGX236ngwEXMZTwFb6us-5" target="oGX236ngwEXMZTwFb6us-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="oGX236ngwEXMZTwFb6us-5" value="&lt;span style=&quot;color: rgb(45, 49, 64); font-family: &amp;quot;Open Sans&amp;quot;; font-size: 18px; font-weight: 700; letter-spacing: 0.25px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;值类别&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oGX236ngwEXMZTwFb6us-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oGX236ngwEXMZTwFb6us-6" target="oGX236ngwEXMZTwFb6us-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oGX236ngwEXMZTwFb6us-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oGX236ngwEXMZTwFb6us-6" target="oGX236ngwEXMZTwFb6us-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oGX236ngwEXMZTwFb6us-6" value="&lt;span style=&quot;color: rgb(45, 49, 64); font-family: Monaco, Consolas, &amp;quot;Andale Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, monospace; font-size: 14px; text-align: start; background-color: rgb(230, 230, 230);&quot;&gt;左值(&lt;/span&gt;&lt;span style=&quot;color: rgb(45, 49, 64); font-family: &amp;quot;Open Sans&amp;quot;; font-size: 14px; text-align: start; background-color: rgb(223, 231, 255);&quot;&gt;可识别对象&lt;/span&gt;&lt;span style=&quot;color: rgb(45, 49, 64); font-family: Monaco, Consolas, &amp;quot;Andale Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, monospace; font-size: 14px; text-align: start; background-color: rgb(230, 230, 230);&quot;&gt;)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oGX236ngwEXMZTwFb6us-8" value="&lt;span style=&quot;color: rgb(45, 49, 64); font-family: Monaco, Consolas, &amp;quot;Andale Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, monospace; font-size: 14px; text-align: start; background-color: rgb(230, 230, 230);&quot;&gt;右值(&lt;/span&gt;&lt;span style=&quot;color: rgb(45, 49, 64); font-family: &amp;quot;Open Sans&amp;quot;; font-size: 14px; text-align: start; background-color: rgb(223, 231, 255);&quot;&gt;值&lt;/span&gt;&lt;span style=&quot;color: rgb(45, 49, 64); font-family: Monaco, Consolas, &amp;quot;Andale Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, monospace; font-size: 14px; text-align: start; background-color: rgb(230, 230, 230);&quot;&gt;)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oGX236ngwEXMZTwFb6us-10" value="&lt;strong style=&quot;box-sizing: inherit; margin: 0px; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-stretch: inherit; font-size: 14px; line-height: inherit; font-family: &amp;quot;Open Sans&amp;quot;; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; color: rgb(45, 49, 64); text-align: start; background-color: rgb(255, 255, 255);&quot; data-immersive-translate-walked=&quot;97a51d90-85dc-41e9-87ce-aa57213af31a&quot;&gt;可修改的左值&lt;/strong&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oGX236ngwEXMZTwFb6us-12" value="&lt;strong style=&quot;box-sizing: inherit; margin: 0px; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-stretch: inherit; font-size: 14px; line-height: inherit; font-family: &amp;quot;Open Sans&amp;quot;; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; color: rgb(45, 49, 64); text-align: start; background-color: rgb(255, 255, 255);&quot; data-immersive-translate-walked=&quot;97a51d90-85dc-41e9-87ce-aa57213af31a&quot;&gt;不可修改的左值&lt;/strong&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
