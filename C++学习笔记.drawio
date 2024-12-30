@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="第 1 页" id="zCJwgfAlIP9obnGPYDEz">
-    <mxGraphModel dx="1195" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2049" dy="1066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-jIWmPzofc5P5sN-8sY--10" value="" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="950" width="910" height="510" as="geometry" />
+        </mxCell>
         <mxCell id="oGX236ngwEXMZTwFb6us-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oGX236ngwEXMZTwFb6us-1" target="oGX236ngwEXMZTwFb6us-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="480" y="230" as="targetPoint" />
@@ -117,7 +120,7 @@
         <mxCell id="rQ7jleubQa4jrmGbAYu6-26" value="&lt;span style=&quot;color: rgb(45, 49, 64); font-family: &amp;quot;Open Sans&amp;quot;; font-size: 14px; text-align: start; background-color: rgb(244, 244, 244);&quot;&gt;R值引用&amp;amp;&amp;amp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="1320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fvUucBqJdOx6glTmMbDe-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fvUucBqJdOx6glTmMbDe-3" target="fvUucBqJdOx6glTmMbDe-4">
+        <mxCell id="fvUucBqJdOx6glTmMbDe-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fvUucBqJdOx6glTmMbDe-3" target="fvUucBqJdOx6glTmMbDe-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="520" y="1830" as="targetPoint" />
             <Array as="points">
@@ -126,32 +129,63 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fvUucBqJdOx6glTmMbDe-3" value="&lt;span style=&quot;color: rgb(45, 49, 64); font-family: &amp;quot;Open Sans&amp;quot;; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;变量&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fvUucBqJdOx6glTmMbDe-3" value="&lt;span style=&quot;color: rgb(45, 49, 64); font-family: &amp;quot;Open Sans&amp;quot;; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;变量&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="2060" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fvUucBqJdOx6glTmMbDe-4" value="&lt;strong style=&quot;box-sizing: inherit; margin: 0px; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-variant-emoji: inherit; font-stretch: inherit; font-size: 14px; line-height: inherit; font-family: &amp;quot;Open Sans&amp;quot;; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; color: rgb(45, 49, 64); text-align: start; background-color: rgb(255, 255, 255);&quot; data-immersive-translate-walked=&quot;6afb6334-6282-4ce6-894a-930fbfaf0ec0&quot;&gt;storage duration&lt;/strong&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fvUucBqJdOx6glTmMbDe-4" value="&lt;strong style=&quot;box-sizing: inherit; margin: 0px; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-variant-emoji: inherit; font-stretch: inherit; font-size: 14px; line-height: inherit; font-family: &amp;quot;Open Sans&amp;quot;; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; color: rgb(45, 49, 64); text-align: start; background-color: rgb(255, 255, 255);&quot; data-immersive-translate-walked=&quot;6afb6334-6282-4ce6-894a-930fbfaf0ec0&quot;&gt;storage duration&lt;/strong&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="1960" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fvUucBqJdOx6glTmMbDe-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fvUucBqJdOx6glTmMbDe-7" target="fvUucBqJdOx6glTmMbDe-8">
+        <mxCell id="fvUucBqJdOx6glTmMbDe-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fvUucBqJdOx6glTmMbDe-7" target="fvUucBqJdOx6glTmMbDe-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fvUucBqJdOx6glTmMbDe-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fvUucBqJdOx6glTmMbDe-7" target="fvUucBqJdOx6glTmMbDe-9">
+        <mxCell id="fvUucBqJdOx6glTmMbDe-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fvUucBqJdOx6glTmMbDe-7" target="fvUucBqJdOx6glTmMbDe-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fvUucBqJdOx6glTmMbDe-7" value="&lt;span style=&quot;color: rgb(45, 49, 64); font-family: &amp;quot;Open Sans&amp;quot;; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;标识符&lt;br&gt;（属性）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fvUucBqJdOx6glTmMbDe-7" value="&lt;span style=&quot;color: rgb(45, 49, 64); font-family: &amp;quot;Open Sans&amp;quot;; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;标识符&lt;br&gt;（属性）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="2238" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fvUucBqJdOx6glTmMbDe-8" value="&lt;span style=&quot;color: rgb(45, 49, 64); font-family: Monaco, Consolas, &amp;quot;Andale Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, monospace; font-size: 14px; text-align: start; background-color: rgb(230, 230, 230);&quot;&gt;scope&lt;br&gt;(&lt;/span&gt;&lt;span style=&quot;color: rgb(45, 49, 64); font-family: &amp;quot;Open Sans&amp;quot;; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;范围是一个编译时属性&lt;/span&gt;&lt;span style=&quot;color: rgb(45, 49, 64); font-family: Monaco, Consolas, &amp;quot;Andale Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, monospace; font-size: 14px; text-align: start; background-color: rgb(230, 230, 230);&quot;&gt;)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fvUucBqJdOx6glTmMbDe-8" value="&lt;span style=&quot;color: rgb(45, 49, 64); font-family: Monaco, Consolas, &amp;quot;Andale Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, monospace; font-size: 14px; text-align: start; background-color: rgb(230, 230, 230);&quot;&gt;scope&lt;br&gt;(&lt;/span&gt;&lt;span style=&quot;color: rgb(45, 49, 64); font-family: &amp;quot;Open Sans&amp;quot;; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;范围是一个编译时属性&lt;/span&gt;&lt;span style=&quot;color: rgb(45, 49, 64); font-family: Monaco, Consolas, &amp;quot;Andale Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, monospace; font-size: 14px; text-align: start; background-color: rgb(230, 230, 230);&quot;&gt;)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="2178" width="160" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="fvUucBqJdOx6glTmMbDe-9" value="&lt;em style=&quot;box-sizing: inherit; margin: 0px; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-variant-emoji: inherit; font-stretch: inherit; font-size: 14px; line-height: inherit; font-family: &amp;quot;Open Sans&amp;quot;; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; color: rgb(45, 49, 64); text-align: start; background-color: rgb(255, 255, 255);&quot; data-immersive-translate-walked=&quot;6afb6334-6282-4ce6-894a-930fbfaf0ec0&quot;&gt;links&amp;nbsp;&lt;/em&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fvUucBqJdOx6glTmMbDe-9" value="&lt;em style=&quot;box-sizing: inherit; margin: 0px; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-variant-emoji: inherit; font-stretch: inherit; font-size: 14px; line-height: inherit; font-family: &amp;quot;Open Sans&amp;quot;; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; color: rgb(45, 49, 64); text-align: start; background-color: rgb(255, 255, 255);&quot; data-immersive-translate-walked=&quot;6afb6334-6282-4ce6-894a-930fbfaf0ec0&quot;&gt;links&amp;nbsp;&lt;/em&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="2298" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fvUucBqJdOx6glTmMbDe-10" value="&lt;span style=&quot;color: rgb(45, 49, 64); font-family: &amp;quot;Open Sans&amp;quot;; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;决定了在代码中可以看到和使用单个标识符的声明&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
+        <mxCell id="fvUucBqJdOx6glTmMbDe-10" value="&lt;span style=&quot;color: rgb(45, 49, 64); font-family: &amp;quot;Open Sans&amp;quot;; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;决定了在代码中可以看到和使用单个标识符的声明&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" parent="1" vertex="1">
           <mxGeometry x="580" y="2178" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="fvUucBqJdOx6glTmMbDe-11" value="&lt;span style=&quot;color: rgb(45, 49, 64); font-family: &amp;quot;Open Sans&amp;quot;; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;确定同一标识符的多个声明是否引用同一对象&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
+        <mxCell id="fvUucBqJdOx6glTmMbDe-11" value="&lt;span style=&quot;color: rgb(45, 49, 64); font-family: &amp;quot;Open Sans&amp;quot;; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;确定同一标识符的多个声明是否引用同一对象&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" parent="1" vertex="1">
           <mxGeometry x="540" y="2298" width="180" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="-jIWmPzofc5P5sN-8sY--1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-jIWmPzofc5P5sN-8sY--3" target="-jIWmPzofc5P5sN-8sY--4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1520" y="1040" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1220" y="1070" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-jIWmPzofc5P5sN-8sY--2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-jIWmPzofc5P5sN-8sY--3" target="-jIWmPzofc5P5sN-8sY--12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1420" y="1310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1220" y="1310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-jIWmPzofc5P5sN-8sY--3" value="&lt;span style=&quot;color: rgb(45, 49, 64); font-family: &amp;quot;Open Sans&amp;quot;; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;派生类&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="1140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-jIWmPzofc5P5sN-8sY--4" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;Open Sans&quot; color=&quot;#2d3140&quot;&gt;&lt;span style=&quot;font-size: 18px; letter-spacing: 0.25px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;b&gt;基础部分&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;Open Sans&quot; color=&quot;#2d3140&quot;&gt;&lt;span style=&quot;font-size: 18px; letter-spacing: 0.25px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;b&gt;（先&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(45, 49, 64); font-family: &amp;quot;Open Sans&amp;quot;;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;构造&lt;/font&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 18px; letter-spacing: 0.25px; color: rgb(45, 49, 64); font-family: &amp;quot;Open Sans&amp;quot;;&quot;&gt;）&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="1030" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-jIWmPzofc5P5sN-8sY--11" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;继承&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="950" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-jIWmPzofc5P5sN-8sY--12" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;Open Sans&quot; color=&quot;#2d3140&quot;&gt;&lt;span style=&quot;font-size: 18px; letter-spacing: 0.25px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;b&gt;派生部分&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;Open Sans&quot; color=&quot;#2d3140&quot;&gt;&lt;span style=&quot;font-size: 18px; letter-spacing: 0.25px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;b&gt;（后）&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="1270" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-jIWmPzofc5P5sN-8sY--13" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;font-size: 20px; background-color: initial;&quot;&gt;按顺序遍历继承树&lt;/span&gt;&lt;span style=&quot;font-size: 20px; background-color: initial;&quot;&gt;构造，从父到子&lt;/span&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#ffffff;darkOpacity=0.05;fillColor=#e51400;strokeColor=#B20000;fillStyle=solid;direction=west;gradientDirection=north;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="1140" width="240" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
