@@ -1,53 +1,55 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.4">
   <diagram name="第 1 页" id="zCJwgfAlIP9obnGPYDEz">
-    <mxGraphModel dx="2514" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4044" dy="2412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="-jIWmPzofc5P5sN-8sY--10" value="" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1250" y="750" width="910" height="510" as="geometry" />
         </mxCell>
-        <mxCell id="oGX236ngwEXMZTwFb6us-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oGX236ngwEXMZTwFb6us-1" target="oGX236ngwEXMZTwFb6us-4" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-10" y="10" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-310" y="40" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="p9sFb-CSKnd5xUBQKQXD-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oGX236ngwEXMZTwFb6us-1" target="oGX236ngwEXMZTwFb6us-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oGX236ngwEXMZTwFb6us-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oGX236ngwEXMZTwFb6us-1" target="oGX236ngwEXMZTwFb6us-5" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-10" y="80" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-190" y="280" />
-              <mxPoint x="-190" y="280" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="p9sFb-CSKnd5xUBQKQXD-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oGX236ngwEXMZTwFb6us-1" target="oGX236ngwEXMZTwFb6us-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oGX236ngwEXMZTwFb6us-1" value="&lt;span style=&quot;color: rgb(45, 49, 64); font-family: &amp;quot;Open Sans&amp;quot;; font-size: 18px; font-weight: 700; letter-spacing: 0.25px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;表达式&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-370" y="240" width="120" height="60" as="geometry" />
+        <mxCell id="oGX236ngwEXMZTwFb6us-1" value="&lt;span style=&quot;color: rgb(45, 49, 64); font-family: &amp;quot;Open Sans&amp;quot;; font-size: 18px; font-weight: 700; letter-spacing: 0.25px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;表达式&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(198, 193, 185); font-family: &amp;quot;Open Sans&amp;quot;; font-size: 14px; text-align: start; background-color: rgb(24, 26, 27);&quot;&gt;计算以产生单个输出值&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1300" y="570" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="oGX236ngwEXMZTwFb6us-4" value="&lt;span style=&quot;color: rgb(45, 49, 64); font-family: &amp;quot;Open Sans&amp;quot;; font-size: 18px; font-weight: 700; letter-spacing: 0.25px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;类型&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-60" y="10" width="120" height="60" as="geometry" />
+        <mxCell id="p9sFb-CSKnd5xUBQKQXD-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oGX236ngwEXMZTwFb6us-4" target="NbkLUTGj8sX2wBvh6n6N-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p9sFb-CSKnd5xUBQKQXD-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oGX236ngwEXMZTwFb6us-4" target="rQ7jleubQa4jrmGbAYu6-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oGX236ngwEXMZTwFb6us-4" value="&lt;span style=&quot;color: rgb(45, 49, 64); font-family: &amp;quot;Open Sans&amp;quot;; font-size: 18px; font-weight: 700; letter-spacing: 0.25px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;类型&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(45, 49, 64); font-family: &amp;quot;Open Sans&amp;quot;; font-size: 18px; font-weight: 700; letter-spacing: 0.25px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;（主要编译器判断上下文）&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1000" y="330" width="254" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oGX236ngwEXMZTwFb6us-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oGX236ngwEXMZTwFb6us-5" target="oGX236ngwEXMZTwFb6us-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="120" y="290" />
-              <mxPoint x="120" y="200" />
+              <mxPoint x="-693" y="820" />
+              <mxPoint x="-693" y="760" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="oGX236ngwEXMZTwFb6us-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oGX236ngwEXMZTwFb6us-5" target="oGX236ngwEXMZTwFb6us-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="120" y="290" />
-              <mxPoint x="120" y="420" />
+              <mxPoint x="-693" y="820" />
+              <mxPoint x="-693" y="980" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p9sFb-CSKnd5xUBQKQXD-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="oGX236ngwEXMZTwFb6us-5" target="p9sFb-CSKnd5xUBQKQXD-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-693" y="820" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="oGX236ngwEXMZTwFb6us-5" value="&lt;span style=&quot;color: rgb(45, 49, 64); font-family: &amp;quot;Open Sans&amp;quot;; font-size: 18px; font-weight: 700; letter-spacing: 0.25px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;值类别&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-60" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1000" y="770" width="217" height="100" as="geometry" />
         </mxCell>
         <mxCell id="oGX236ngwEXMZTwFb6us-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oGX236ngwEXMZTwFb6us-6" target="oGX236ngwEXMZTwFb6us-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -56,7 +58,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oGX236ngwEXMZTwFb6us-6" value="&lt;span style=&quot;color: rgb(45, 49, 64); font-family: Monaco, Consolas, &amp;quot;Andale Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, monospace; font-size: 14px; text-align: start; background-color: rgb(230, 230, 230);&quot;&gt;左值(&lt;/span&gt;&lt;span style=&quot;color: rgb(45, 49, 64); font-family: &amp;quot;Open Sans&amp;quot;; font-size: 14px; text-align: start; background-color: rgb(223, 231, 255);&quot;&gt;可识别对象&lt;/span&gt;&lt;span style=&quot;color: rgb(45, 49, 64); font-family: Monaco, Consolas, &amp;quot;Andale Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, monospace; font-size: 14px; text-align: start; background-color: rgb(230, 230, 230);&quot;&gt;)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="190" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="-623" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oGX236ngwEXMZTwFb6us-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oGX236ngwEXMZTwFb6us-8" target="oGX236ngwEXMZTwFb6us-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -65,29 +67,29 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oGX236ngwEXMZTwFb6us-8" value="&lt;span style=&quot;color: rgb(45, 49, 64); font-family: Monaco, Consolas, &amp;quot;Andale Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, monospace; font-size: 14px; text-align: start; background-color: rgb(230, 230, 230);&quot;&gt;右值(&lt;/span&gt;&lt;span style=&quot;color: rgb(45, 49, 64); font-family: &amp;quot;Open Sans&amp;quot;; font-size: 14px; text-align: start; background-color: rgb(223, 231, 255);&quot;&gt;值&lt;/span&gt;&lt;span style=&quot;color: rgb(45, 49, 64); font-family: Monaco, Consolas, &amp;quot;Andale Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, monospace; font-size: 14px; text-align: start; background-color: rgb(230, 230, 230);&quot;&gt;)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="180" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="-633" y="950" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oGX236ngwEXMZTwFb6us-10" value="&lt;strong style=&quot;box-sizing: inherit; margin: 0px; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-stretch: inherit; font-size: 14px; line-height: inherit; font-family: &amp;quot;Open Sans&amp;quot;; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; color: rgb(45, 49, 64); text-align: start; background-color: rgb(255, 255, 255);&quot; data-immersive-translate-walked=&quot;97a51d90-85dc-41e9-87ce-aa57213af31a&quot;&gt;可修改的左值&lt;/strong&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="370" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="-443" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oGX236ngwEXMZTwFb6us-12" value="&lt;strong style=&quot;box-sizing: inherit; margin: 0px; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-stretch: inherit; font-size: 14px; line-height: inherit; font-family: &amp;quot;Open Sans&amp;quot;; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; color: rgb(45, 49, 64); text-align: start; background-color: rgb(255, 255, 255);&quot; data-immersive-translate-walked=&quot;97a51d90-85dc-41e9-87ce-aa57213af31a&quot;&gt;不可修改的左值&lt;/strong&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="370" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="-443" y="790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oGX236ngwEXMZTwFb6us-14" value="&lt;span style=&quot;color: rgb(45, 49, 64); font-family: &amp;quot;Open Sans&amp;quot;; font-size: 14px; text-align: start; background-color: rgb(244, 244, 244);&quot;&gt;纯右值&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="-453" y="910" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oGX236ngwEXMZTwFb6us-16" value="&lt;span style=&quot;color: rgb(45, 49, 64); font-family: &amp;quot;Open Sans&amp;quot;; font-size: 14px; text-align: start; background-color: rgb(244, 244, 244);&quot;&gt;x值&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(45, 49, 64); font-family: &amp;quot;Open Sans&amp;quot;; font-size: 14px; text-align: start; background-color: rgb(244, 244, 244);&quot;&gt;（左值可&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(45, 49, 64); font-family: &amp;quot;Open Sans&amp;quot;; font-size: 14px; text-align: start;&quot;&gt;隐式转换为右值&lt;/span&gt;&lt;span style=&quot;background-color: rgb(244, 244, 244); color: rgb(45, 49, 64); font-family: &amp;quot;Open Sans&amp;quot;; font-size: 14px; text-align: start;&quot;&gt;）&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="450" width="180" height="60" as="geometry" />
+          <mxGeometry x="-453" y="1010" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rQ7jleubQa4jrmGbAYu6-3" value="&lt;font face=&quot;Open Sans&quot; color=&quot;#2d3140&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;20. 1 Function Types: Functions have their own lvalue function types&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;12.9&amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;color: rgb(45, 49, 64); font-family: &amp;quot;Open Sans&amp;quot;; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;要声明 const 指针，请在指针声明中星号&lt;b&gt;后&lt;/b&gt;使用&amp;nbsp;&lt;/span&gt;&lt;code style=&quot;box-sizing: inherit; margin: 0px; padding: 1px 4px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-stretch: inherit; font-size: 14px; line-height: inherit; font-family: Monaco, Consolas, &amp;quot;Andale Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, monospace; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; overflow: auto; vertical-align: middle; background-color: rgb(230, 230, 230); border-radius: 4px; box-shadow: rgb(212, 212, 212) 0px 1px; color: rgb(45, 49, 64);&quot; data-immersive-translate-walked=&quot;1f2cb60a-0e9e-448f-9b1c-8a35acca966f&quot;&gt;const；&lt;/code&gt;&lt;span style=&quot;color: rgb(45, 49, 64); font-family: &amp;quot;Open Sans&amp;quot;; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;要声明指向 const 值的指针，请在指针的数据类型&lt;b&gt;之前&lt;/b&gt;使用&amp;nbsp;&lt;/span&gt;&lt;code style=&quot;box-sizing: inherit; margin: 0px; padding: 1px 4px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-stretch: inherit; font-size: 14px; line-height: inherit; font-family: Monaco, Consolas, &amp;quot;Andale Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, monospace; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; overflow: auto; vertical-align: middle; background-color: rgb(230, 230, 230); border-radius: 4px; box-shadow: rgb(212, 212, 212) 0px 1px; color: rgb(45, 49, 64);&quot; data-immersive-translate-walked=&quot;1f2cb60a-0e9e-448f-9b1c-8a35acca966f&quot;&gt;const&lt;/code&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;align=left;horizontal=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="1260" y="160" width="640" height="550" as="geometry" />
         </mxCell>
         <mxCell id="rQ7jleubQa4jrmGbAYu6-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rQ7jleubQa4jrmGbAYu6-6" target="rQ7jleubQa4jrmGbAYu6-7" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-110" y="570" as="targetPoint" />
+            <mxPoint x="-320" y="-60" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-280" y="770" />
-              <mxPoint x="-280" y="600" />
+              <mxPoint x="-490" y="140" />
+              <mxPoint x="-490" y="-30" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -97,11 +99,14 @@
         <mxCell id="NbkLUTGj8sX2wBvh6n6N-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="rQ7jleubQa4jrmGbAYu6-6" target="NbkLUTGj8sX2wBvh6n6N-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="p9sFb-CSKnd5xUBQKQXD-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rQ7jleubQa4jrmGbAYu6-6" target="p9sFb-CSKnd5xUBQKQXD-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rQ7jleubQa4jrmGbAYu6-6" value="&lt;span style=&quot;color: rgb(45, 49, 64); font-family: &amp;quot;Open Sans&amp;quot;; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;复合类型&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-470" y="740" width="120" height="60" as="geometry" />
+          <mxGeometry x="-680" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rQ7jleubQa4jrmGbAYu6-7" value="&lt;span style=&quot;color: rgb(45, 49, 64); font-family: &amp;quot;Open Sans&amp;quot;; font-size: 18px; font-weight: 700; letter-spacing: 0.25px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;函数类型&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(45, 49, 64); font-family: &amp;quot;Open Sans&amp;quot;; font-size: 18px; font-weight: 700; letter-spacing: 0.25px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;（&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(45, 49, 64); font-family: &amp;quot;Open Sans&amp;quot;; font-size: 14px; text-align: start;&quot;&gt;函数有自己的左值函数类型，包含：&lt;b&gt;返回值 和 参数&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(45, 49, 64); font-family: &amp;quot;Open Sans&amp;quot;; font-size: 18px; font-weight: 700; letter-spacing: 0.25px; text-align: start;&quot;&gt;）&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-205" y="560" width="210" height="90" as="geometry" />
+          <mxGeometry x="-415" y="-70" width="210" height="90" as="geometry" />
         </mxCell>
         <mxCell id="rQ7jleubQa4jrmGbAYu6-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rQ7jleubQa4jrmGbAYu6-10" target="rQ7jleubQa4jrmGbAYu6-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -110,13 +115,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rQ7jleubQa4jrmGbAYu6-10" value="&lt;span style=&quot;color: rgb(45, 49, 64); font-family: &amp;quot;Open Sans&amp;quot;; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;引用类型&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(45, 49, 64); font-family: &amp;quot;Open Sans&amp;quot;; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;（一旦初始化，无法重新绑定）&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-205" y="740" width="210" height="60" as="geometry" />
+          <mxGeometry x="-415" y="110" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rQ7jleubQa4jrmGbAYu6-24" value="&lt;span style=&quot;color: rgb(45, 49, 64); font-family: &amp;quot;Open Sans&amp;quot;; font-size: 14px; text-align: start; background-color: rgb(244, 244, 244);&quot;&gt;L值引用&amp;amp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(45, 49, 64); font-family: &amp;quot;Open Sans&amp;quot;; font-size: 14px; text-align: start; background-color: rgb(244, 244, 244);&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;（object的别名）&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="75" y="680" width="120" height="60" as="geometry" />
+          <mxGeometry x="-135" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rQ7jleubQa4jrmGbAYu6-26" value="&lt;span style=&quot;color: rgb(45, 49, 64); font-family: &amp;quot;Open Sans&amp;quot;; font-size: 14px; text-align: start; background-color: rgb(244, 244, 244);&quot;&gt;R值引用&amp;amp;&amp;amp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="75" y="780" width="120" height="60" as="geometry" />
+          <mxGeometry x="-135" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Pvb7XkKKDdEXnkuy6YKq-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="fvUucBqJdOx6glTmMbDe-3" target="fvUucBqJdOx6glTmMbDe-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -380,25 +385,16 @@
           <mxGeometry x="490" y="3294" width="350" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NbkLUTGj8sX2wBvh6n6N-1" value="&lt;span style=&quot;color: rgb(45, 49, 64); font-family: &amp;quot;Open Sans&amp;quot;; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;指示表达式是否解析为值、函数或某种类型的对象&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" parent="1" vertex="1">
-          <mxGeometry x="-120" y="310" width="180" height="62" as="geometry" />
+          <mxGeometry x="-963" y="870" width="180" height="62" as="geometry" />
         </mxCell>
         <mxCell id="NbkLUTGj8sX2wBvh6n6N-2" value="&lt;span style=&quot;color: rgb(45, 49, 64); font-family: &amp;quot;Open Sans&amp;quot;; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;计算结果为具有标识符的函数或对象的表达式&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" parent="1" vertex="1">
-          <mxGeometry x="130" y="220" width="180" height="62" as="geometry" />
+          <mxGeometry x="-683" y="780" width="180" height="62" as="geometry" />
         </mxCell>
         <mxCell id="NbkLUTGj8sX2wBvh6n6N-3" value="&lt;span style=&quot;color: rgb(45, 49, 64); font-family: &amp;quot;Open Sans&amp;quot;; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;包括文字（字符串文字除外）和函数或运算符的返回值（当按值返回时）&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="430" width="180" height="62" as="geometry" />
+          <mxGeometry x="-693" y="990" width="180" height="62" as="geometry" />
         </mxCell>
         <mxCell id="NbkLUTGj8sX2wBvh6n6N-5" value="&lt;span style=&quot;color: rgb(45, 49, 64); font-family: &amp;quot;Open Sans&amp;quot;; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;基本数据类型&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-470" y="1030" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="NbkLUTGj8sX2wBvh6n6N-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NbkLUTGj8sX2wBvh6n6N-6" target="rQ7jleubQa4jrmGbAYu6-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="NbkLUTGj8sX2wBvh6n6N-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NbkLUTGj8sX2wBvh6n6N-6" target="NbkLUTGj8sX2wBvh6n6N-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="NbkLUTGj8sX2wBvh6n6N-6" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;数据类型&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-700" y="870" width="120" height="60" as="geometry" />
+          <mxGeometry x="-683" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NbkLUTGj8sX2wBvh6n6N-9" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;color: rgb(45, 49, 64); font-family: &amp;quot;Open Sans&amp;quot;; font-size: 14px; background-color: rgb(223, 231, 255);&quot;&gt;类中的static成员是存在于&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;; font-size: 14px; background-color: rgb(223, 231, 255); color: rgb(45, 49, 64);&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;类的作用域区域内的全局变量&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(45, 49, 64); font-family: &amp;quot;Open Sans&amp;quot;; font-size: 14px; background-color: rgb(223, 231, 255);&quot;&gt;。&lt;/span&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" parent="1" vertex="1">
           <mxGeometry x="890" y="2190" width="220" height="80" as="geometry" />
@@ -425,10 +421,10 @@
           <mxGeometry x="525" y="3477" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NbkLUTGj8sX2wBvh6n6N-19" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Open Sans&quot; color=&quot;#2d3140&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;指针类型&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-210" y="950" width="210" height="60" as="geometry" />
+          <mxGeometry x="-420" y="272" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NbkLUTGj8sX2wBvh6n6N-21" value="&lt;span style=&quot;color: rgb(45, 49, 64); font-family: &amp;quot;Open Sans&amp;quot;; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;一般只&lt;/span&gt;&lt;span style=&quot;color: rgb(45, 49, 64); font-family: &amp;quot;Open Sans&amp;quot;; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;编写采用右值引用参数的函数&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" parent="1" vertex="1">
-          <mxGeometry x="30" y="840" width="180" height="62" as="geometry" />
+          <mxGeometry x="-180" y="210" width="180" height="62" as="geometry" />
         </mxCell>
         <mxCell id="p9sFb-CSKnd5xUBQKQXD-3" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=light-dark(#FFFFFF,#FF0000);" edge="1" parent="1" source="fvUucBqJdOx6glTmMbDe-7" target="R4vnkSGysQsOYlU7WVH3-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -462,6 +458,33 @@
         </mxCell>
         <mxCell id="p9sFb-CSKnd5xUBQKQXD-9" value="&lt;span style=&quot;color: rgb(45, 49, 64); font-family: &amp;quot;Open Sans&amp;quot;; font-size: 18px; font-weight: 700; letter-spacing: 0.25px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;函数类型&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="3130" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="p9sFb-CSKnd5xUBQKQXD-14" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Open Sans&quot; color=&quot;#2d3140&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;background-color: rgb(24, 26, 27); color: rgb(198, 193, 185);&quot;&gt;Class&lt;/span&gt;&lt;span style=&quot;background-color: rgb(24, 26, 27); color: rgb(198, 193, 185);&quot;&gt;&amp;nbsp;&lt;/span&gt;类型&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="379" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p9sFb-CSKnd5xUBQKQXD-20" value="&lt;span style=&quot;color: rgb(198, 193, 185); font-family: &amp;quot;Open Sans&amp;quot;; font-size: 14px; text-align: start; background-color: rgb(24, 26, 27);&quot;&gt;&lt;span style=&quot;color: rgb(198, 193, 185); background-color: rgb(24, 26, 27);&quot;&gt;表达式的类型必须在编译时确定；&lt;/span&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(198, 193, 185); font-family: &amp;quot;Open Sans&amp;quot;; font-size: 14px; text-align: start; background-color: rgb(24, 26, 27);&quot;&gt;表达式的值可以在编译时（如果表达式是 constexpr）或运行时确定（如果表达式不是 constexpr）&lt;/span&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="-966" y="400" width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="p9sFb-CSKnd5xUBQKQXD-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="p9sFb-CSKnd5xUBQKQXD-24" target="p9sFb-CSKnd5xUBQKQXD-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p9sFb-CSKnd5xUBQKQXD-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p9sFb-CSKnd5xUBQKQXD-24" target="p9sFb-CSKnd5xUBQKQXD-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p9sFb-CSKnd5xUBQKQXD-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="p9sFb-CSKnd5xUBQKQXD-24" target="p9sFb-CSKnd5xUBQKQXD-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p9sFb-CSKnd5xUBQKQXD-24" value="&lt;span style=&quot;color: rgb(198, 193, 185); font-family: Monaco, Consolas, &amp;quot;Andale Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, monospace; font-size: 14px; text-align: start; background-color: rgb(38, 41, 43);&quot;&gt;move semantics&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-633" y="1200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p9sFb-CSKnd5xUBQKQXD-26" value="&lt;code style=&quot;box-sizing: inherit; margin: 0px; padding: 1px 4px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-variant-emoji: inherit; font-stretch: inherit; font-size: 14px; line-height: inherit; font-family: Monaco, Consolas, &amp;quot;Andale Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, monospace; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; overflow: auto; vertical-align: middle; background-color: rgb(38, 41, 43); border-radius: 4px; box-shadow: rgb(48, 52, 54) 0px 1px 0px 0px; color: rgb(198, 193, 185); text-align: start;&quot; data-immersive-translate-walked=&quot;be52873e-8f6d-4f8a-b36f-54e4d5abaeca&quot;&gt;glvalue&lt;/code&gt;&lt;span style=&quot;color: rgb(198, 193, 185); font-family: &amp;quot;Open Sans&amp;quot;; font-size: 14px; text-align: start; background-color: rgb(24, 26, 27);&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-453" y="1110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p9sFb-CSKnd5xUBQKQXD-28" value="&lt;span style=&quot;color: rgb(198, 193, 185); font-family: Monaco, Consolas, &amp;quot;Andale Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, monospace; font-size: 14px; text-align: start; background-color: rgb(38, 41, 43);&quot;&gt;prvalue&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-453" y="1200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p9sFb-CSKnd5xUBQKQXD-29" value="&lt;code style=&quot;box-sizing: inherit; margin: 0px; padding: 1px 4px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-variant-emoji: inherit; font-stretch: inherit; font-size: 14px; line-height: inherit; font-family: Monaco, Consolas, &amp;quot;Andale Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, monospace; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; overflow: auto; vertical-align: middle; background-color: rgb(38, 41, 43); border-radius: 4px; box-shadow: rgb(48, 52, 54) 0px 1px 0px 0px; color: rgb(198, 193, 185); text-align: start;&quot; data-immersive-translate-walked=&quot;be52873e-8f6d-4f8a-b36f-54e4d5abaeca&quot;&gt;xvalue&lt;/code&gt;&lt;span style=&quot;color: rgb(198, 193, 185); font-family: &amp;quot;Open Sans&amp;quot;; font-size: 14px; text-align: start; background-color: rgb(24, 26, 27);&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-453" y="1290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
