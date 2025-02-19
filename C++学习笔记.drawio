@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.14">
   <diagram name="第 1 页" id="zCJwgfAlIP9obnGPYDEz">
-    <mxGraphModel dx="8125" dy="4292" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="8665" dy="4573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,7 +40,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZT4umTQjdTNRYh2g0tM1-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oGX236ngwEXMZTwFb6us-5" target="p9sFb-CSKnd5xUBQKQXD-24" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-410" y="1119" />
+              <mxPoint x="-410" y="1340" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="oGX236ngwEXMZTwFb6us-5" value="&lt;span style=&quot;color: rgb(45, 49, 64); font-family: &amp;quot;Open Sans&amp;quot;; font-size: 18px; font-weight: 700; letter-spacing: 0.25px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;值类别&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-755.5" y="1069" width="217" height="100" as="geometry" />
@@ -391,7 +396,7 @@
           <mxGeometry x="53.139999999999986" y="6084" width="350" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NbkLUTGj8sX2wBvh6n6N-1" value="&lt;span style=&quot;color: rgb(45, 49, 64); font-family: &amp;quot;Open Sans&amp;quot;; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;指示表达式是否解析为值、函数或某种类型的对象&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" parent="1" vertex="1">
-          <mxGeometry x="-625" y="1170" width="180" height="62" as="geometry" />
+          <mxGeometry x="-718.5" y="1169" width="180" height="62" as="geometry" />
         </mxCell>
         <mxCell id="NbkLUTGj8sX2wBvh6n6N-9" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;color: rgb(45, 49, 64); font-family: &amp;quot;Open Sans&amp;quot;; font-size: 14px; background-color: rgb(223, 231, 255);&quot;&gt;类中的static成员是存在于&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;; font-size: 14px; background-color: rgb(223, 231, 255); color: rgb(45, 49, 64);&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;类的作用域区域内的全局变量&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(45, 49, 64); font-family: &amp;quot;Open Sans&amp;quot;; font-size: 14px; background-color: rgb(223, 231, 255);&quot;&gt;。&lt;/span&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" parent="1" vertex="1">
           <mxGeometry x="612.1399999999999" y="4370" width="220" height="80" as="geometry" />
