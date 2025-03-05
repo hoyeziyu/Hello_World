@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="第 1 页" id="Benm36pr-1HBtlkhYLY8">
-    <mxGraphModel dx="4044" dy="4750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3020" dy="4217" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1076,6 +1076,9 @@
         </mxCell>
         <mxCell id="_sVG-ljGCfsyndKb4Hlm-28" value="&lt;font style=&quot;color: light-dark(rgb(221, 218, 214), rgb(255, 0, 0)); font-size: 18px;&quot;&gt;.FS&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="_sVG-ljGCfsyndKb4Hlm-30">
           <mxGeometry x="1119" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_sVG-ljGCfsyndKb4Hlm-31" value="&lt;span style=&quot;color: rgb(189, 183, 175); font-family: Gudea, sans-serif; font-size: 16px; text-align: start; background-color: rgb(28, 64, 16);&quot;&gt;当 Phong 光照模型在顶点着色器中实现时，它称为 Gouraud 着色而不是 Phong 着色&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillStyle=solid;direction=west;gradientDirection=north;shadow=1;size=20;pointerEvents=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2969.5" y="950" width="229" height="61.82" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
