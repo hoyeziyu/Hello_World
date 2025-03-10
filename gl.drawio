@@ -362,32 +362,6 @@
         <mxCell id="4iYKxQUs0f5Lz31bOKMc-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5TdQqByTQvm9FEfxZIQ--8" target="4iYKxQUs0f5Lz31bOKMc-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Vk2pX9wyjKoTmjqXzQ-a-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="Vk2pX9wyjKoTmjqXzQ-a-81" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3309.999999999999" y="-1126" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Vk2pX9wyjKoTmjqXzQ-a-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="Vk2pX9wyjKoTmjqXzQ-a-93" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3309.999999999999" y="-1126" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Vk2pX9wyjKoTmjqXzQ-a-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="Vk2pX9wyjKoTmjqXzQ-a-105" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3309.999999999999" y="-1126" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TfP0Sopcaeqt1ym7ZBFb-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="TfP0Sopcaeqt1ym7ZBFb-23" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3389.999999999999" y="417" as="targetPoint" />
-            <mxPoint x="3309.999999999999" y="-1126" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4iCEb7x3e296kocMK86x-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="Vk2pX9wyjKoTmjqXzQ-a-77" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3309.999999999999" y="-1126" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="5TdQqByTQvm9FEfxZIQ--10" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(221, 218, 214); font-family: Gudea, sans-serif; font-size: 16px; background-color: rgb(34, 36, 38);&quot;&gt;对象的材质&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(221, 218, 214); font-family: Gudea, sans-serif; font-size: 16px; background-color: rgb(34, 36, 38);&quot;&gt;(颜色、贴图)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;align=center;" parent="1" vertex="1">
           <mxGeometry x="3022.8" y="580" width="180" height="60" as="geometry" />
         </mxCell>
@@ -677,7 +651,7 @@
         <mxCell id="Vk2pX9wyjKoTmjqXzQ-a-60" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;em style=&quot;color: rgb(221, 218, 214); font-family: Gudea, sans-serif; font-size: 16px; background-color: rgb(34, 36, 38);&quot; data-immersive-translate-walked=&quot;c242f68f-2049-4e5a-8847-009e4a0bb6a2&quot;&gt;将近平面设置为尽可能远（&lt;/em&gt;&lt;span style=&quot;color: rgb(221, 218, 214); font-family: Gudea, sans-serif; font-size: 16px; background-color: rgb(34, 36, 38);&quot;&gt;靠近&lt;/span&gt;&lt;code style=&quot;color: rgb(221, 218, 214); font-size: 16px; background-color: rgb(34, 36, 38);&quot; data-immersive-translate-walked=&quot;a76a9a8e-cac6-49c0-b6a6-b67c24305a06&quot;&gt;near&lt;/code&gt;&lt;span style=&quot;color: rgb(221, 218, 214); font-family: Gudea, sans-serif; font-size: 16px; background-color: rgb(34, 36, 38);&quot;&gt;平面时的精度非常大&lt;/span&gt;&lt;em style=&quot;color: rgb(221, 218, 214); font-family: Gudea, sans-serif; font-size: 16px; background-color: rgb(34, 36, 38);&quot; data-immersive-translate-walked=&quot;c242f68f-2049-4e5a-8847-009e4a0bb6a2&quot;&gt;）&lt;/em&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" parent="Vk2pX9wyjKoTmjqXzQ-a-69" vertex="1">
           <mxGeometry x="101" y="48" width="460" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Vk2pX9wyjKoTmjqXzQ-a-70" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: rgb(221, 218, 214); font-family: Gudea, sans-serif; font-size: 16px; background-color: rgb(34, 36, 38);&quot;&gt;&amp;nbsp; &amp;nbsp;模版测试&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: rgb(34, 36, 38); color: rgb(114, 255, 114); font-family: Gudea, sans-serif; font-size: 16px;&quot;&gt;stencil value&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
+        <mxCell id="Vk2pX9wyjKoTmjqXzQ-a-70" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(221, 218, 214); font-family: Gudea, sans-serif; font-size: 16px; background-color: rgb(34, 36, 38);&quot;&gt;模版测试&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: rgb(34, 36, 38); color: rgb(114, 255, 114); font-family: Gudea, sans-serif; font-size: 16px;&quot;&gt;stencil value&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;align=center;" parent="1" vertex="1">
           <mxGeometry x="3392.25" y="-1160.5" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vk2pX9wyjKoTmjqXzQ-a-73" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" parent="1" source="Vk2pX9wyjKoTmjqXzQ-a-72" target="Vk2pX9wyjKoTmjqXzQ-a-70" edge="1">
@@ -693,7 +667,7 @@
           <mxGeometry x="192" y="30" width="198" height="154.81" as="geometry" />
         </mxCell>
         <mxCell id="Vk2pX9wyjKoTmjqXzQ-a-77" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: rgb(221, 218, 214); font-family: Gudea, sans-serif; font-size: 16px; background-color: rgb(34, 36, 38);&quot;&gt;&amp;nbsp; 混合&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Blending&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="3391.25" y="-891" width="180" height="60" as="geometry" />
+          <mxGeometry x="3384.88" y="-891" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vk2pX9wyjKoTmjqXzQ-a-80" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" parent="1" source="Vk2pX9wyjKoTmjqXzQ-a-79" target="Vk2pX9wyjKoTmjqXzQ-a-77" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -702,7 +676,7 @@
           <mxGeometry x="3710.25" y="-931" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Vk2pX9wyjKoTmjqXzQ-a-81" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: rgb(221, 218, 214); font-family: Gudea, sans-serif; font-size: 16px; background-color: rgb(34, 36, 38);&quot;&gt;&amp;nbsp; 人脸剔除&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: rgb(114, 255, 114); font-family: Gudea, sans-serif; font-size: 16px; background-color: rgb(34, 36, 38);&quot;&gt;face culling&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="3392.25" y="-721" width="180" height="60" as="geometry" />
+          <mxGeometry x="3384.88" y="-721" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vk2pX9wyjKoTmjqXzQ-a-88" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" parent="1" source="Vk2pX9wyjKoTmjqXzQ-a-83" target="Vk2pX9wyjKoTmjqXzQ-a-81" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -754,7 +728,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Vk2pX9wyjKoTmjqXzQ-a-93" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: rgb(221, 218, 214); font-family: Gudea, sans-serif; font-size: 16px; background-color: rgb(34, 36, 38);&quot;&gt;&amp;nbsp; 帧缓冲区&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: light-dark(rgb(34, 36, 38), rgb(205, 207, 209)); color: light-dark(rgb(114, 255, 114), rgb(0, 87, 0)); font-family: Gudea, sans-serif; font-size: 16px;&quot;&gt;framebuffer&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="3392.25" y="-378" width="180" height="60" as="geometry" />
+          <mxGeometry x="3384.88" y="-378" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vk2pX9wyjKoTmjqXzQ-a-95" value="&lt;span style=&quot;color: rgb(221, 218, 214); font-family: Gudea, sans-serif; font-size: 16px; text-align: start; background-color: rgb(34, 36, 38);&quot;&gt;color buffer&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="3804.25" y="-554" width="127" height="48" as="geometry" />
@@ -769,7 +743,7 @@
           <mxGeometry x="3674.25" y="-464" width="50" height="32" as="geometry" />
         </mxCell>
         <mxCell id="Vk2pX9wyjKoTmjqXzQ-a-105" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Gudea, sans-serif&quot; color=&quot;#34312e&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: rgb(205, 207, 209);&quot;&gt;立体贴图&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: rgb(114, 255, 114); font-family: Gudea, sans-serif; font-size: 16px; background-color: rgb(34, 36, 38);&quot;&gt;cube map&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="3390" y="230" width="180" height="60" as="geometry" />
+          <mxGeometry x="3384.88" y="240" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TfP0Sopcaeqt1ym7ZBFb-1" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;color: rgb(221, 218, 214); font-family: Gudea, sans-serif; font-size: 16px; background-color: rgb(34, 36, 38);&quot;&gt;OpenGL中的一个缓冲区在其核心中是管理某个GPU内存的对象；&lt;/span&gt;&lt;span style=&quot;background-color: rgb(34, 36, 38); color: rgb(221, 218, 214); font-family: Gudea, sans-serif; font-size: 16px;&quot;&gt;将其绑定到特定的缓冲区目标时，我们将其赋予含义，eg:&lt;/span&gt;&lt;span style=&quot;background-color: rgb(34, 36, 38); color: rgb(144, 173, 223); font-family: &amp;quot;Courier New&amp;quot;, Courier, monospace; font-size: 16px;&quot;&gt;gl_array_buffer、&lt;/span&gt;&lt;span style=&quot;background-color: rgb(34, 36, 38); color: rgb(144, 173, 223); font-family: &amp;quot;Courier New&amp;quot;, Courier, monospace; font-size: 16px;&quot;&gt;gl_element_array_buffer&lt;/span&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillStyle=solid;direction=west;gradientDirection=north;shadow=1;size=20;pointerEvents=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="3962.25" y="-340" width="372" height="116" as="geometry" />
@@ -802,7 +776,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TfP0Sopcaeqt1ym7ZBFb-23" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Gudea, sans-serif&quot; color=&quot;#34312e&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: rgb(205, 207, 209);&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;抗锯齿&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: rgb(0, 87, 0); font-family: Gudea, sans-serif; font-size: 16px; background-color: rgb(205, 207, 209);&quot;&gt;anti-aliasing&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="3388" y="426" width="180" height="60" as="geometry" />
+          <mxGeometry x="3380" y="426" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TfP0Sopcaeqt1ym7ZBFb-25" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" parent="1" source="TfP0Sopcaeqt1ym7ZBFb-24" target="TfP0Sopcaeqt1ym7ZBFb-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1159,6 +1133,21 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7XdR7XJ95Xu92Vi3BBW8-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u7kPQiartlnkpP8f5_0E-11" target="Vk2pX9wyjKoTmjqXzQ-a-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7XdR7XJ95Xu92Vi3BBW8-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="u7kPQiartlnkpP8f5_0E-11" target="Vk2pX9wyjKoTmjqXzQ-a-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7XdR7XJ95Xu92Vi3BBW8-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="u7kPQiartlnkpP8f5_0E-11" target="Vk2pX9wyjKoTmjqXzQ-a-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7XdR7XJ95Xu92Vi3BBW8-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="u7kPQiartlnkpP8f5_0E-11" target="Vk2pX9wyjKoTmjqXzQ-a-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7XdR7XJ95Xu92Vi3BBW8-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="u7kPQiartlnkpP8f5_0E-11" target="Vk2pX9wyjKoTmjqXzQ-a-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7XdR7XJ95Xu92Vi3BBW8-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="u7kPQiartlnkpP8f5_0E-11" target="TfP0Sopcaeqt1ym7ZBFb-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u7kPQiartlnkpP8f5_0E-11" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: light-dark(rgb(34, 36, 38), rgb(205, 207, 209)); color: light-dark(rgb(221, 218, 214), rgb(52, 49, 46)); font-family: Gudea, sans-serif; font-size: 16px;&quot;&gt;面faces&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: light-dark(rgb(34, 36, 38), rgb(205, 207, 209)); color: light-dark(rgb(221, 218, 214), rgb(52, 49, 46)); font-family: Gudea, sans-serif; font-size: 16px;&quot;&gt;(网格包含很多个face，表示对象的渲染基元render primitive)，eg:三角形、正方形、点&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: light-dark(rgb(34, 36, 38), rgb(205, 207, 209)); color: light-dark(rgb(221, 218, 214), rgb(52, 49, 46)); font-family: Gudea, sans-serif; font-size: 16px;&quot;&gt;face包含形成primitive的顶点的索引&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;align=center;" parent="1" vertex="1">
