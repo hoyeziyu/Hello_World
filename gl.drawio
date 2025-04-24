@@ -1696,8 +1696,8 @@
         <mxCell id="xyFI-RoAgW07tH7f8HK0-58" value="&lt;span style=&quot;font-family: Gudea, sans-serif; font-size: 13px; text-align: start;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(221, 218, 214), rgb(255, 255, 255));&quot;&gt;顶点着色器是在 GPU 上创建存储顶点数据的&lt;/font&gt;&lt;font style=&quot;color: light-dark(rgb(221, 218, 214), rgb(255, 0, 0));&quot;&gt;GPU内存&lt;/font&gt;&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillStyle=solid;direction=west;gradientDirection=north;shadow=1;size=20;pointerEvents=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="-460" y="3437.76" width="140" height="52.24" as="geometry" />
         </mxCell>
-        <mxCell id="xyFI-RoAgW07tH7f8HK0-59" value="顶点缓冲区对象（VBO）" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-558.5" y="3549.9999999999995" width="98.5" height="37.76" as="geometry" />
+        <mxCell id="xyFI-RoAgW07tH7f8HK0-59" value="顶点缓冲区对象（VBO）&lt;div&gt;&lt;var style=&quot;font-style: normal; font-family: &amp;quot;Courier New&amp;quot;, Courier, monospace; color: rgb(144, 173, 223); font-size: 13px; text-align: start; background-color: rgb(34, 36, 38);&quot; data-immersive-translate-walked=&quot;dd9ffd55-c5a1-48ae-a32d-00a522a74724&quot;&gt;GL_ARRAY_BUFFER&lt;/var&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-558.5" y="3540" width="128.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xyFI-RoAgW07tH7f8HK0-62" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="xyFI-RoAgW07tH7f8HK0-59" target="xyFI-RoAgW07tH7f8HK0-58">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
