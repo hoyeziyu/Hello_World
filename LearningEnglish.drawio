@@ -1,9 +1,15 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="27.0.3">
   <diagram name="第 1 页" id="ylpGw2J9aP0mBjrn0IIL">
-    <mxGraphModel dx="1830" dy="2185" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2153" dy="2364" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="xks5mqabacn-yv3iWCF2-67" value="&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;&lt;b&gt;不及物动词&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1710" width="280" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="xks5mqabacn-yv3iWCF2-66" value="&lt;font style=&quot;font-size: 14px; color: rgb(255, 0, 0);&quot;&gt;&lt;b&gt;及物动词&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1320" width="280" height="250" as="geometry" />
+        </mxCell>
         <mxCell id="xks5mqabacn-yv3iWCF2-2" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="fDns_Gbma0BwewBtqI1Y-3" target="xks5mqabacn-yv3iWCF2-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -52,7 +58,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xks5mqabacn-yv3iWCF2-5" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;动词&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="1710" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="1730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xks5mqabacn-yv3iWCF2-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;名词&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="-360" width="140" height="40" as="geometry" />
@@ -171,19 +177,28 @@
           <mxGeometry x="1080" y="1020" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xks5mqabacn-yv3iWCF2-55" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;完全及物动词&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="1400" width="150" height="40" as="geometry" />
+          <mxGeometry x="820" y="1350" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xks5mqabacn-yv3iWCF2-56" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;不完全及物动词&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="1550" width="150" height="40" as="geometry" />
+          <mxGeometry x="820" y="1500" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xks5mqabacn-yv3iWCF2-57" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;不完全不及物动词&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="1860" width="150" height="36" as="geometry" />
+          <mxGeometry x="820" y="1900" width="150" height="36" as="geometry" />
         </mxCell>
         <mxCell id="xks5mqabacn-yv3iWCF2-58" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;完全不及物动词&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="1720" width="150" height="40" as="geometry" />
+          <mxGeometry x="820" y="1740" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xks5mqabacn-yv3iWCF2-63" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;授予动词&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="2000" width="150" height="36" as="geometry" />
+          <mxGeometry x="820" y="2070" width="150" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="xks5mqabacn-yv3iWCF2-68" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="xks5mqabacn-yv3iWCF2-67" target="xks5mqabacn-yv3iWCF2-66">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="850" y="1670" as="sourcePoint" />
+            <mxPoint x="900" y="1620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xks5mqabacn-yv3iWCF2-70" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;及物和不及物的判断方法：&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 0, 0); font-size: 15px;&quot;&gt;&lt;font style=&quot;&quot;&gt;我&lt;u style=&quot;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/u&gt;他（&lt;/font&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;主动&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;）&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 0, 0); font-size: 15px;&quot;&gt;&lt;font style=&quot;&quot;&gt;他被我&lt;u&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/u&gt;（&lt;/font&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;被动&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;）&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 14px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="1590" width="340" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
