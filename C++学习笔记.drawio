@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.4">
   <diagram name="第 1 页" id="zCJwgfAlIP9obnGPYDEz">
-    <mxGraphModel dx="8993" dy="5928" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7567" dy="5177" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2636,7 +2636,7 @@
           <mxGeometry y="90" width="512" height="101.29" as="geometry" />
         </mxCell>
         <mxCell id="8mMo_6uQ-ttLQBg-Yt8i-2" value="1.它是什么变量？&lt;div&gt;2.它是作用域是哪些？&lt;br&gt;3.持续时间是多久？&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="12080" y="-3160" width="180" height="50" as="geometry" />
+          <mxGeometry x="11880" y="-3120" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8mMo_6uQ-ttLQBg-Yt8i-5" value="&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 0, 0));&quot;&gt;缺陷：&lt;/font&gt;&lt;/div&gt;int main()&lt;br&gt;{&lt;br&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Auto_ptr1 res1(new Resource());&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;/&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;/&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 128, 0));&quot;&gt;没有提供复制构造函数或赋值运算符，函数执行的是浅拷贝，&amp;nbsp;超出范围时进行销毁，会留下一个悬空指针&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Auto_ptr1 res2(res1);&amp;nbsp;&lt;br&gt;&lt;br&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;return 0;&lt;br&gt;} // res1 and res2 go out of scope here&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="110" y="6707" width="363.72" height="139.5" as="geometry" />
