@@ -1,9 +1,20 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.6">
   <diagram name="第 1 页" id="zCJwgfAlIP9obnGPYDEz">
-    <mxGraphModel dx="7211" dy="5041" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7295" dy="5093" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="qMUXJXfYmgY8f2dPC-Dw-20" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="MkDUnRsj6bOqi4UdPTGo-52" target="qMUXJXfYmgY8f2dPC-Dw-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="8070" y="3850" as="sourcePoint" />
+            <mxPoint x="8120" y="3800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qMUXJXfYmgY8f2dPC-Dw-21" value="结构体和类几乎完全相同。它们之间的&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(204, 102, 0));&quot;&gt;唯一区别&lt;/font&gt;：&lt;div&gt;默认情况下， struct 的成员是 public ，而 class 的成员是 private&amp;nbsp;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qMUXJXfYmgY8f2dPC-Dw-20">
+          <mxGeometry x="-0.0128" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_7SiIf3KHUHTDQXVeX7h-37" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="1" vertex="1">
           <mxGeometry x="-2910" y="-1270" width="640" height="240" as="geometry" />
         </mxCell>
@@ -3072,6 +3083,39 @@
         </mxCell>
         <mxCell id="qMUXJXfYmgY8f2dPC-Dw-16" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 128, 0));&quot;&gt;a. 对象被销毁的一种情况是当创建它们的scope被销毁时&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="7450" y="4600" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qMUXJXfYmgY8f2dPC-Dw-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qMUXJXfYmgY8f2dPC-Dw-17" target="qMUXJXfYmgY8f2dPC-Dw-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="7870" y="3580" />
+              <mxPoint x="7870" y="3492" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qMUXJXfYmgY8f2dPC-Dw-17" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(191, 194, 207), rgb(255, 255, 255)); font-size: 20px;&quot; face=&quot;Open Sans&quot;&gt;Struct&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7970" y="3550" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qMUXJXfYmgY8f2dPC-Dw-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.009;entryY=0.605;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qMUXJXfYmgY8f2dPC-Dw-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="8099.000000000002" y="3576.83" as="sourcePoint" />
+            <mxPoint x="8683.550000000001" y="4296.98" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="8410" y="3577" />
+              <mxPoint x="8410" y="4297" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qMUXJXfYmgY8f2dPC-Dw-19" value="&lt;font color=&quot;#ff8000&quot;&gt;a. 结构体可以包含函数、构造函数、析构函数等等，以及类所具有的所有其他功能&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="7946" y="3610" width="254" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qMUXJXfYmgY8f2dPC-Dw-22" value="初始化方式" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="7770" y="3477" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qMUXJXfYmgY8f2dPC-Dw-25" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="qMUXJXfYmgY8f2dPC-Dw-23" target="qMUXJXfYmgY8f2dPC-Dw-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qMUXJXfYmgY8f2dPC-Dw-23" value="&lt;span style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 128, 0));&quot;&gt;&lt;font face=&quot;Open Sans&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Aggregate Initialization&lt;/span&gt;&lt;/font&gt;&lt;font face=&quot;Open Sans&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;；&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;font face=&quot;Open Sans&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;它允许我们直接初始化结构或数组的成员，而无需明确定义构造函数&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="7270" y="3400" width="460" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
