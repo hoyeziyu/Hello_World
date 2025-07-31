@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.7">
   <diagram name="第 1 页" id="zCJwgfAlIP9obnGPYDEz">
-    <mxGraphModel dx="7650" dy="5310" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7436" dy="5179" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1170,7 +1170,7 @@
         <mxCell id="-jIWmPzofc5P5sN-8sY--13" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;font-size: 20px; background-color: initial;&quot;&gt;按顺序遍历继承树&lt;/span&gt;&lt;span style=&quot;font-size: 20px; background-color: initial;&quot;&gt;构造，从父到子&lt;/span&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#ffffff;darkOpacity=0.05;fillColor=#e51400;strokeColor=#B20000;fillStyle=solid;direction=west;gradientDirection=north;shadow=1;size=20;pointerEvents=1;" parent="0ZoBZgbKbm9Cm06rm16e-7" vertex="1">
           <mxGeometry x="240" y="190" width="240" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="fAJkUS5fOEC9kSML_BlY-1" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 128, 0));&quot;&gt;在派生类的构造函数中，基类已经完成构造。&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 128, 0));&quot;&gt;所有继承的变量都已设置完毕，可供我们使用&lt;/font&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;align=center;" vertex="1" parent="0ZoBZgbKbm9Cm06rm16e-7">
+        <mxCell id="fAJkUS5fOEC9kSML_BlY-1" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 128, 0));&quot;&gt;在派生类的构造函数中，基类已经完成构造。&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 128, 0));&quot;&gt;所有继承的变量都已设置完毕，可供我们使用&lt;/font&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;align=center;" parent="0ZoBZgbKbm9Cm06rm16e-7" vertex="1">
           <mxGeometry x="350" y="400" width="255" height="49.5" as="geometry" />
         </mxCell>
         <mxCell id="0ZoBZgbKbm9Cm06rm16e-8" value="&lt;font face=&quot;Open Sans&quot; color=&quot;#57524a&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: rgb(214, 216, 217);&quot;&gt;&lt;b&gt;继承&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -3184,6 +3184,39 @@
         </mxCell>
         <mxCell id="ZpNFuO6amGTzkyP7I8i6-13" value="a.&amp;nbsp;默认情况下，构造函数不会被其派生类继承;&amp;nbsp;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(128, 255, 0));&quot;&gt;using SomeType::SomeType&lt;/font&gt; (SomeType 是 基类的名字) 语法可以继承父类构造函数&lt;div&gt;b. 如果派生类有一个构造函数，其参数列表与基类构造函数的参数列表匹配，则 using BaseType::BaseType 指令将优先考虑派生程度更高的版本(派生类)&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="7060" y="5002" width="350" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="pQ2MvDeEpC4SoLBw1MeY-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pQ2MvDeEpC4SoLBw1MeY-1" target="pQ2MvDeEpC4SoLBw1MeY-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pQ2MvDeEpC4SoLBw1MeY-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pQ2MvDeEpC4SoLBw1MeY-1" target="pQ2MvDeEpC4SoLBw1MeY-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pQ2MvDeEpC4SoLBw1MeY-1" value="实参如何传递给形参" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10393.14" y="5170" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pQ2MvDeEpC4SoLBw1MeY-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.008;entryY=0.493;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="yY3Ps_i_LJDfGXXRZmFl-12" target="pQ2MvDeEpC4SoLBw1MeY-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pQ2MvDeEpC4SoLBw1MeY-3" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Open Sans&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Pass by Value&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="10590" y="5060" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="pQ2MvDeEpC4SoLBw1MeY-5" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Open Sans&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Pass by Reference&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="10590" y="5150" width="140" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="pQ2MvDeEpC4SoLBw1MeY-8" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="pQ2MvDeEpC4SoLBw1MeY-7" target="pQ2MvDeEpC4SoLBw1MeY-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pQ2MvDeEpC4SoLBw1MeY-7" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 128, 0));&quot; face=&quot;Open Sans&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;原始变量的副本&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="10741.14" y="5025" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pQ2MvDeEpC4SoLBw1MeY-13" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="pQ2MvDeEpC4SoLBw1MeY-12" target="pQ2MvDeEpC4SoLBw1MeY-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pQ2MvDeEpC4SoLBw1MeY-12" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 128, 0));&quot; face=&quot;Open Sans&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;变量及其对应的引用指向系统内存中的同一位置&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="10753" y="5107" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pQ2MvDeEpC4SoLBw1MeY-14" value="&lt;span style=&quot;color: rgb(192, 186, 178); font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; text-align: start; text-wrap-mode: wrap; background-color: rgb(55, 4, 4);&quot;&gt;注意到文字是临时值，而引用是指代更永久的东西，比如变量&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10705" y="5300" width="460" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
