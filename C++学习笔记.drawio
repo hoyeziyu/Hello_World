@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.9">
   <diagram name="第 1 页" id="zCJwgfAlIP9obnGPYDEz">
-    <mxGraphModel dx="8994" dy="6134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7337" dy="5118" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3510,7 +3510,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4ZsDZRtorf-tfDpplztF-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nRJPBCCAqVF3sexFLQeN-19" target="4ZsDZRtorf-tfDpplztF-1">
+        <mxCell id="4ZsDZRtorf-tfDpplztF-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="nRJPBCCAqVF3sexFLQeN-19" target="4ZsDZRtorf-tfDpplztF-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nRJPBCCAqVF3sexFLQeN-19" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Open Sans&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;静态数组&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
@@ -3542,7 +3542,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="S20Goltz8qd9-DMfbWl6-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="S20Goltz8qd9-DMfbWl6-5" target="S20Goltz8qd9-DMfbWl6-12" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="9920" y="10382" />
+              <mxPoint x="9920" y="10562" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="S20Goltz8qd9-DMfbWl6-5" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Open Sans&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;dynamic memory allocation&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Open Sans&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;（&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;; font-size: 20px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;heap,自由存储区&lt;/span&gt;&lt;span style=&quot;font-size: 20px; font-family: &amp;quot;Open Sans&amp;quot;; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;）&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="9590.5" y="10352" width="295" height="60" as="geometry" />
@@ -3565,7 +3570,7 @@
         <mxCell id="S20Goltz8qd9-DMfbWl6-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="S20Goltz8qd9-DMfbWl6-12" target="S20Goltz8qd9-DMfbWl6-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4ZsDZRtorf-tfDpplztF-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="S20Goltz8qd9-DMfbWl6-12" target="4ZsDZRtorf-tfDpplztF-6">
+        <mxCell id="4ZsDZRtorf-tfDpplztF-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="S20Goltz8qd9-DMfbWl6-12" target="4ZsDZRtorf-tfDpplztF-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="S20Goltz8qd9-DMfbWl6-12" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Open Sans&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Smart Pointer&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
@@ -3681,23 +3686,23 @@
         <mxCell id="C6GHWPZN4YHxmvXIn0BJ-5" value="&lt;font style=&quot;color: light-dark(rgb(255, 128, 0), rgb(255, 0, 0));&quot;&gt;注：&lt;/font&gt;&lt;font style=&quot;color: light-dark(rgb(255, 128, 0), rgb(255, 128, 0));&quot;&gt;使用 int 值作为数组的索引存在一个问题：数组的大小可能大于 int 中可存储的最大值。&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(255, 128, 0), rgb(255, 128, 0));&quot;&gt;为了解决这个问题，可用 std::size_t 数据类型。 size_t 保证足够大，以匹配数组和其他对象的最大可能大小。&lt;/font&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="7247.5" y="5311" width="325" height="89" as="geometry" />
         </mxCell>
-        <mxCell id="4ZsDZRtorf-tfDpplztF-1" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Open Sans&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;C-Style Arrays&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="4ZsDZRtorf-tfDpplztF-1" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Open Sans&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;C-Style Arrays&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="7247.5" y="5471.73" width="210" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="4ZsDZRtorf-tfDpplztF-3" value="&lt;font style=&quot;color: light-dark(rgb(128, 255, 0), rgb(0, 255, 0));&quot;&gt;int MyArray[5];&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#00ff00&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(128, 255, 0), rgb(255, 128, 0));&quot;&gt;// 尽量避免使用,有bug，&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(128, 255, 0), rgb(255, 128, 0));&quot;&gt;eg:衰减为指针，丢失自身大小的追踪,，需要单独跟踪数组长度&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="4ZsDZRtorf-tfDpplztF-3" value="&lt;font style=&quot;color: light-dark(rgb(128, 255, 0), rgb(0, 255, 0));&quot;&gt;int MyArray[5];&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#00ff00&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(128, 255, 0), rgb(255, 128, 0));&quot;&gt;// 尽量避免使用,有bug，&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(128, 255, 0), rgb(255, 128, 0));&quot;&gt;eg:衰减为指针，丢失自身大小的追踪,，需要单独跟踪数组长度&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="7247.5" y="5516.73" width="360" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="4ZsDZRtorf-tfDpplztF-6" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; font-size: 16px;&quot;&gt;&lt;font face=&quot;Open Sans&quot;&gt;weak&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;font face=&quot;Open Sans&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;pointer&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="4ZsDZRtorf-tfDpplztF-6" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; font-size: 16px;&quot;&gt;&lt;font face=&quot;Open Sans&quot;&gt;weak&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;font face=&quot;Open Sans&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;pointer&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="10325.5" y="11120" width="157" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="4ZsDZRtorf-tfDpplztF-9" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="4ZsDZRtorf-tfDpplztF-8" target="4ZsDZRtorf-tfDpplztF-6">
+        <mxCell id="4ZsDZRtorf-tfDpplztF-9" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" parent="1" source="4ZsDZRtorf-tfDpplztF-8" target="4ZsDZRtorf-tfDpplztF-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4ZsDZRtorf-tfDpplztF-8" value="&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 128, 0));&quot;&gt;&lt;span style=&quot;font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;工作原理类似于 std::shared_pointer ，共享对底层资源的访问，但不共享资源的所有权。&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 128, 0));&quot;&gt;&lt;span style=&quot;font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;换句话说，一旦所有共享指针超出范围，弱指针将无法阻止底层资源被释放。&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+        <mxCell id="4ZsDZRtorf-tfDpplztF-8" value="&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 128, 0));&quot;&gt;&lt;span style=&quot;font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;工作原理类似于 std::shared_pointer ，共享对底层资源的访问，但不共享资源的所有权。&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 128, 0));&quot;&gt;&lt;span style=&quot;font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;换句话说，一旦所有共享指针超出范围，弱指针将无法阻止底层资源被释放。&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="10541.5" y="11030" width="590" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="4ZsDZRtorf-tfDpplztF-12" value="&lt;font style=&quot;text-align: center; color: light-dark(rgb(0, 0, 0), rgb(255, 0, 0));&quot;&gt;约定:&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;text-align: center; color: light-dark(rgb(0, 0, 0), rgb(255, 128, 0));&quot;&gt;即任何使用&lt;/font&gt;&lt;font style=&quot;text-align: center; color: light-dark(rgb(0, 0, 0), rgb(255, 0, 0));&quot;&gt;原始指针&lt;/font&gt;&lt;font style=&quot;text-align: center; color: light-dark(rgb(0, 0, 0), rgb(255, 128, 0));&quot;&gt;的函数都在请求访问资源，但并不请求拥有资源的所有权。&lt;/font&gt;&lt;font style=&quot;text-align: center; color: light-dark(rgb(0, 0, 0), rgb(255, 0, 0));&quot;&gt;智能指针&lt;/font&gt;&lt;font style=&quot;text-align: center; color: light-dark(rgb(0, 0, 0), rgb(255, 128, 0));&quot;&gt;是拥有所有权的&lt;/font&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;align=left;" vertex="1" parent="1">
-          <mxGeometry x="9972.5" y="10440" width="245" height="92" as="geometry" />
+        <mxCell id="4ZsDZRtorf-tfDpplztF-12" value="&lt;font style=&quot;text-align: center; color: light-dark(rgb(0, 0, 0), rgb(255, 0, 0));&quot;&gt;约定:&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;text-align: center; color: light-dark(rgb(0, 0, 0), rgb(255, 128, 0));&quot;&gt;即任何使用&lt;/font&gt;&lt;font style=&quot;text-align: center; color: light-dark(rgb(0, 0, 0), rgb(255, 0, 0));&quot;&gt;原始指针&lt;/font&gt;&lt;font style=&quot;text-align: center; color: light-dark(rgb(0, 0, 0), rgb(255, 128, 0));&quot;&gt;的函数都在请求访问资源，但并不请求拥有资源的所有权。&lt;/font&gt;&lt;font style=&quot;text-align: center; color: light-dark(rgb(0, 0, 0), rgb(255, 0, 0));&quot;&gt;智能指针&lt;/font&gt;&lt;font style=&quot;text-align: center; color: light-dark(rgb(0, 0, 0), rgb(255, 128, 0));&quot;&gt;是拥有所有权的&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;text-align: center;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(255, 128, 0), rgb(255, 0, 0));&quot;&gt;智能指针仅在资源无所有者的情况下才会删除底层资源&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;align=left;" parent="1" vertex="1">
+          <mxGeometry x="9940" y="10440" width="297.5" height="92" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
