@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.0">
   <diagram name="第 1 页" id="zCJwgfAlIP9obnGPYDEz">
-    <mxGraphModel dx="9258" dy="6296" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7337" dy="5118" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3863,8 +3863,50 @@
             <mxPoint x="8740" y="6790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="a5aEJlXw73fB55cmVMSQ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="a5aEJlXw73fB55cmVMSQ-1" target="a5aEJlXw73fB55cmVMSQ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a5aEJlXw73fB55cmVMSQ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="a5aEJlXw73fB55cmVMSQ-1" target="a5aEJlXw73fB55cmVMSQ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a5aEJlXw73fB55cmVMSQ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="a5aEJlXw73fB55cmVMSQ-1" target="a5aEJlXw73fB55cmVMSQ-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="a5aEJlXw73fB55cmVMSQ-1" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;Open Sans&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;String&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8010" y="10090" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a5aEJlXw73fB55cmVMSQ-4" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Open Sans&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Char 字符&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="7602.5" y="9780" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a5aEJlXw73fB55cmVMSQ-6" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 255, 0));&quot;&gt;char Letter { &#39;H&#39; };&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 128, 0));&quot;&gt;&lt;font style=&quot;&quot;&gt;//&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;&quot;&gt;将字符括在单引号中可以创建 char 文字&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="7602.5" y="9840" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="a5aEJlXw73fB55cmVMSQ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="a5aEJlXw73fB55cmVMSQ-7" target="a5aEJlXw73fB55cmVMSQ-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a5aEJlXw73fB55cmVMSQ-7" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Open Sans&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;C-Style String&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="7602.5" y="10020" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a5aEJlXw73fB55cmVMSQ-10" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="a5aEJlXw73fB55cmVMSQ-9" target="a5aEJlXw73fB55cmVMSQ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a5aEJlXw73fB55cmVMSQ-9" value="&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 128, 0));&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Open Sans&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;字符串想象为字符的简单连续集合，&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; font-size: 14px;&quot;&gt;&lt;font face=&quot;Open Sans&quot;&gt;存储为指向第一个字符的指针 char* ;&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 128, 0));&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Open Sans&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;&quot;&gt;以空字符结尾的字符串（&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; font-size: 14px;&quot;&gt;&lt;font face=&quot;Open Sans&quot;&gt;\0，会占用一个内存空间&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px; font-family: &amp;quot;Open Sans&amp;quot;; background-color: transparent;&quot;&gt;）,&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; font-size: 14px;&quot;&gt;&lt;font face=&quot;Open Sans&quot; color=&quot;#ff8000&quot;&gt;字符串的长度(&lt;/font&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 0, 0));&quot; face=&quot;Open Sans&quot;&gt;不计算结尾空字符&lt;/font&gt;&lt;font face=&quot;Open Sans&quot; color=&quot;#ff8000&quot;&gt;)不一定与分配用于存储字符串的数组的长度（&lt;/font&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 0, 0));&quot; face=&quot;Open Sans&quot;&gt;计算结尾空字符&lt;/font&gt;&lt;font face=&quot;Open Sans&quot; color=&quot;#ff8000&quot;&gt;）相同&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="6902.5" y="9920" width="670" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a5aEJlXw73fB55cmVMSQ-12" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 255, 0));&quot;&gt;const char* MyString{&quot;Hello&quot;};&lt;/font&gt;&lt;div&gt;&lt;font&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 128, 0));&quot;&gt;// C 风格字符串的数据类型被声明为指向 const char 指针&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="7572.5" y="10080" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="a5aEJlXw73fB55cmVMSQ-13" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Open Sans&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Raw String&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="7227.5" y="10090" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a5aEJlXw73fB55cmVMSQ-15" value="&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 255, 0));&quot;&gt;&amp;nbsp; std::string A {R&quot;(no \n new \n lines)&quot;};&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 255, 0));&quot;&gt;&amp;nbsp; const char* B {R&quot;(C:\Windows\notepad.exe)&quot;};&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 128, 0));&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 128, 0));&quot;&gt;&lt;font&gt;//&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font&gt;原始字符串文字以 R&quot;( 和 &quot;) 中间的内容，无视转义字符&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 128, 0));&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font&gt;//&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font color=&quot;#ff8000&quot;&gt;Raw string不是一种专用类型&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="7182.5" y="10140" width="320" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="a5aEJlXw73fB55cmVMSQ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="a5aEJlXw73fB55cmVMSQ-17" target="a5aEJlXw73fB55cmVMSQ-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a5aEJlXw73fB55cmVMSQ-17" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Open Sans&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;std::string&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="7602.5" y="10200" width="175" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
