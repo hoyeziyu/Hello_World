@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.1">
   <diagram name="第 1 页" id="zCJwgfAlIP9obnGPYDEz">
-    <mxGraphModel dx="10904" dy="7592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7637" dy="5370" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2742,6 +2742,9 @@
         <mxCell id="MkDUnRsj6bOqi4UdPTGo-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="qUmGFtJm7o6PO_lelEz2-3" target="MkDUnRsj6bOqi4UdPTGo-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="FITSIzctmyugxXSHuhZ1-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qUmGFtJm7o6PO_lelEz2-3" target="FITSIzctmyugxXSHuhZ1-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qUmGFtJm7o6PO_lelEz2-3" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Open Sans&quot;&gt;function&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="9469.939999999997" y="7792" width="160" height="60" as="geometry" />
         </mxCell>
@@ -2846,7 +2849,7 @@
           <mxGeometry x="9612.500000000002" y="8418" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MkDUnRsj6bOqi4UdPTGo-2" value="&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Open Sans&quot;&gt;Global / File Scope&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="10135.5" y="8155" width="160" height="60" as="geometry" />
+          <mxGeometry x="10135.5" y="8240" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nRJPBCCAqVF3sexFLQeN-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MkDUnRsj6bOqi4UdPTGo-4" target="nRJPBCCAqVF3sexFLQeN-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -4024,6 +4027,19 @@
             <mxPoint x="7370" y="3660" as="targetPoint" />
             <Array as="points">
               <mxPoint x="9560" y="6180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FITSIzctmyugxXSHuhZ1-15" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;Open Sans&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Overloading vs Overriding&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10117.57" y="8130" width="214.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FITSIzctmyugxXSHuhZ1-17" value="&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 128, 0));&quot; face=&quot;Open Sans&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;不同参数类型集，返回类型不考虑区分&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;; font-size: 16px;&quot;&gt;Overloading(&lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-size: 16px;&quot;&gt;&lt;font face=&quot;Open Sans&quot;&gt;编译时多态性&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;; font-size: 16px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;) vs Overriding(&lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-size: 16px;&quot;&gt;&lt;font face=&quot;Open Sans&quot;&gt;使用继承和虚方法的运行时多态性&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-family: &amp;quot;Open Sans&amp;quot;; font-size: 16px;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="10388.14" y="8059" width="600" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FITSIzctmyugxXSHuhZ1-18" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FITSIzctmyugxXSHuhZ1-17" target="FITSIzctmyugxXSHuhZ1-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="10360" y="8090" />
             </Array>
           </mxGeometry>
         </mxCell>
