@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.2">
   <diagram name="第 1 页" id="Benm36pr-1HBtlkhYLY8">
-    <mxGraphModel dx="2468" dy="7575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2811" dy="7811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -820,6 +820,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Fw7v9yLEKshCwszVYiTF-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dI0U-zX7RB7XNhA1Jiry-1" target="Fw7v9yLEKshCwszVYiTF-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fw7v9yLEKshCwszVYiTF-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dI0U-zX7RB7XNhA1Jiry-1" target="Fw7v9yLEKshCwszVYiTF-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dI0U-zX7RB7XNhA1Jiry-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;组件&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
@@ -1947,6 +1950,15 @@
         </mxCell>
         <mxCell id="Fw7v9yLEKshCwszVYiTF-3" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Gudea, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 128, 0));&quot;&gt;只想渲染屏幕的一部分&lt;/font&gt;，eg:小地图。使用viewport视口，您可以控制在屏幕上渲染的位置和大小。&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="7520" y="-2990" width="740" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fw7v9yLEKshCwszVYiTF-6" value="&lt;div style=&quot;&quot;&gt;&lt;article data-clipboard-cangjie=&quot;[&amp;quot;root&amp;quot;,{&amp;quot;copyFrom&amp;quot;:&amp;quot;im-native&amp;quot;},[&amp;quot;p&amp;quot;,{},[&amp;quot;span&amp;quot;,{&amp;quot;data-type&amp;quot;:&amp;quot;text&amp;quot;},[&amp;quot;span&amp;quot;,{&amp;quot;data-type&amp;quot;:&amp;quot;leaf&amp;quot;},&amp;quot;scrolling&amp;quot;]]]]&quot; class=&quot;4ever-article&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Particles&lt;/span&gt;&lt;/p&gt;&lt;/article&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;align=center;" vertex="1" parent="1">
+          <mxGeometry x="7300" y="-1150" width="167" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fw7v9yLEKshCwszVYiTF-9" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="Fw7v9yLEKshCwszVYiTF-8" target="Fw7v9yLEKshCwszVYiTF-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fw7v9yLEKshCwszVYiTF-8" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Gudea, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 128, 0));&quot;&gt;粒子只是一些迷你动画&lt;/font&gt;。我们要做的是获取这些动画：&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Gudea, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;并将它们生成在一个点周围，以创建一串彩色闪光粒子&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="7520" y="-1219" width="420" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
