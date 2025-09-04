@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.2">
   <diagram name="第 1 页" id="zCJwgfAlIP9obnGPYDEz">
-    <mxGraphModel dx="7282" dy="5114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7663" dy="5365" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2745,7 +2745,7 @@
         <mxCell id="FITSIzctmyugxXSHuhZ1-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="qUmGFtJm7o6PO_lelEz2-3" target="FITSIzctmyugxXSHuhZ1-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OdXLWVzQsrfTSrMTD7Wi-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qUmGFtJm7o6PO_lelEz2-3" target="OdXLWVzQsrfTSrMTD7Wi-2">
+        <mxCell id="OdXLWVzQsrfTSrMTD7Wi-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="qUmGFtJm7o6PO_lelEz2-3" target="OdXLWVzQsrfTSrMTD7Wi-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qUmGFtJm7o6PO_lelEz2-3" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Open Sans&quot;&gt;function&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -4039,7 +4039,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OdXLWVzQsrfTSrMTD7Wi-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000,#FFFF00);dashed=1;dashPattern=8 8;curved=1;strokeWidth=2;exitX=0.875;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="pQ2MvDeEpC4SoLBw1MeY-30" target="qUmGFtJm7o6PO_lelEz2-13">
+        <mxCell id="OdXLWVzQsrfTSrMTD7Wi-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000,#FFFF00);dashed=1;dashPattern=8 8;curved=1;strokeWidth=2;exitX=0.875;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="pQ2MvDeEpC4SoLBw1MeY-30" target="qUmGFtJm7o6PO_lelEz2-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="9890.859999999999" y="5924" />
@@ -4047,44 +4047,50 @@
             <mxPoint x="9502.062474281896" y="5901.148974321843" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OdXLWVzQsrfTSrMTD7Wi-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OdXLWVzQsrfTSrMTD7Wi-2" target="OdXLWVzQsrfTSrMTD7Wi-4">
+        <mxCell id="OdXLWVzQsrfTSrMTD7Wi-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OdXLWVzQsrfTSrMTD7Wi-2" target="OdXLWVzQsrfTSrMTD7Wi-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OdXLWVzQsrfTSrMTD7Wi-2" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;Open Sans&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;First Class Functions&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OdXLWVzQsrfTSrMTD7Wi-2" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;Open Sans&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;First Class Functions&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="10125.57" y="6720" width="184.43" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OdXLWVzQsrfTSrMTD7Wi-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OdXLWVzQsrfTSrMTD7Wi-4" target="OdXLWVzQsrfTSrMTD7Wi-6">
+        <mxCell id="OdXLWVzQsrfTSrMTD7Wi-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="OdXLWVzQsrfTSrMTD7Wi-4" target="OdXLWVzQsrfTSrMTD7Wi-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OdXLWVzQsrfTSrMTD7Wi-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OdXLWVzQsrfTSrMTD7Wi-4" target="OdXLWVzQsrfTSrMTD7Wi-7">
+        <mxCell id="OdXLWVzQsrfTSrMTD7Wi-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OdXLWVzQsrfTSrMTD7Wi-4" target="OdXLWVzQsrfTSrMTD7Wi-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OdXLWVzQsrfTSrMTD7Wi-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OdXLWVzQsrfTSrMTD7Wi-4" target="OdXLWVzQsrfTSrMTD7Wi-8">
+        <mxCell id="OdXLWVzQsrfTSrMTD7Wi-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="OdXLWVzQsrfTSrMTD7Wi-4" target="OdXLWVzQsrfTSrMTD7Wi-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OdXLWVzQsrfTSrMTD7Wi-4" value="实现方式" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="OdXLWVzQsrfTSrMTD7Wi-4" value="实现方式" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="10522.14" y="6725" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OdXLWVzQsrfTSrMTD7Wi-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OdXLWVzQsrfTSrMTD7Wi-6" target="OdXLWVzQsrfTSrMTD7Wi-16">
+        <mxCell id="OdXLWVzQsrfTSrMTD7Wi-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="OdXLWVzQsrfTSrMTD7Wi-6" target="OdXLWVzQsrfTSrMTD7Wi-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OdXLWVzQsrfTSrMTD7Wi-6" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Open Sans&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;function pointers&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="OdXLWVzQsrfTSrMTD7Wi-6" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Open Sans&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;function pointers&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="10979.5" y="6566" width="141" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="OdXLWVzQsrfTSrMTD7Wi-7" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Open Sans&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;function objects&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="OdXLWVzQsrfTSrMTD7Wi-7" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Open Sans&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;function objects&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="10979.5" y="6722.5" width="141" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="OdXLWVzQsrfTSrMTD7Wi-8" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Open Sans&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;lambdas&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="OdXLWVzQsrfTSrMTD7Wi-8" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Open Sans&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;lambdas&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="10980.5" y="6862" width="141" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="OdXLWVzQsrfTSrMTD7Wi-15" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="OdXLWVzQsrfTSrMTD7Wi-12" target="OdXLWVzQsrfTSrMTD7Wi-2">
+        <mxCell id="OdXLWVzQsrfTSrMTD7Wi-15" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" parent="1" source="OdXLWVzQsrfTSrMTD7Wi-12" target="OdXLWVzQsrfTSrMTD7Wi-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OdXLWVzQsrfTSrMTD7Wi-12" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Open Sans&quot; color=&quot;#ff8000&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;指编程语言允许函数像其他类型的数据一样被处理；&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Open Sans&quot; color=&quot;#ff8000&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;eg:函数可以存储为变量、类成员或数组等容器内、&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Open Sans&quot; color=&quot;#ff8000&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;函数可以作为参数传递给其他函数、函数可以从其他函数返回&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+        <mxCell id="OdXLWVzQsrfTSrMTD7Wi-12" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Open Sans&quot; color=&quot;#ff8000&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;指编程语言允许函数像其他类型的数据一样被处理；&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Open Sans&quot; color=&quot;#ff8000&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;eg:函数可以存储为变量、类成员或数组等容器内、&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Open Sans&quot; color=&quot;#ff8000&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;函数可以作为参数传递给其他函数、函数可以从其他函数返回&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="10332.07" y="6584" width="420" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OdXLWVzQsrfTSrMTD7Wi-16" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Open Sans&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Predicate&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Open Sans&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;关键字&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="11236" y="6485" width="114" height="45" as="geometry" />
+        <mxCell id="OdXLWVzQsrfTSrMTD7Wi-16" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Open Sans&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Predicate&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Open Sans&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;关键字&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="11171.36" y="6392" width="114" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="3kQKALVqJacFJ9RGYsuk-2" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="3kQKALVqJacFJ9RGYsuk-1" target="OdXLWVzQsrfTSrMTD7Wi-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3kQKALVqJacFJ9RGYsuk-1" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 128, 0));&quot; face=&quot;Open Sans&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;声明函数指针的语法包括返回类型、参数列表和表示指针的星号 (*)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 255, 0));&quot; face=&quot;Open Sans&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;div style=&quot;&quot;&gt;bool (*isEvenPtr)(int);&lt;/div&gt;&lt;div style=&quot;&quot;&gt;bool (*FunctionPtr)(int){&amp;amp;isEven};&lt;/div&gt;&lt;div style=&quot;&quot;&gt;using Handler = bool (*)(const Player&amp;amp;);&lt;/div&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="11171.07" y="6470" width="450" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
