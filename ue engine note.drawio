@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.5">
   <diagram name="第 1 页" id="r2SSU7r75QTRr_G6e_ju">
-    <mxGraphModel dx="15425" dy="6331" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5264" dy="-419" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1207,6 +1207,47 @@
         </mxCell>
         <mxCell id="VTSQZOsR1ivxyoZBImd2-3" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;Inter, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol&quot; color=&quot;#cc6600&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;标签是一个数组，是 Actor 类默认值的一部分，可用于分组和分类&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="-3270" y="7020" width="510" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VTSQZOsR1ivxyoZBImd2-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="VTSQZOsR1ivxyoZBImd2-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1007.5" y="2390" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VTSQZOsR1ivxyoZBImd2-8" value="respawning call" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VTSQZOsR1ivxyoZBImd2-7">
+          <mxGeometry x="0.0689" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VTSQZOsR1ivxyoZBImd2-9" value="ARespawnPlayerCharacter" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1245" y="2445" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="VTSQZOsR1ivxyoZBImd2-10" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="VTSQZOsR1ivxyoZBImd2-9">
+          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="VTSQZOsR1ivxyoZBImd2-11" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="VTSQZOsR1ivxyoZBImd2-9">
+          <mxGeometry y="52" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="VTSQZOsR1ivxyoZBImd2-12" value="+ Destroyed(): void&amp;nbsp;&lt;div&gt;+ CallRestartPlayer(): void&amp;nbsp;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="VTSQZOsR1ivxyoZBImd2-9">
+          <mxGeometry y="60" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VTSQZOsR1ivxyoZBImd2-13" value="RespawnPlayerGameMode" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="2484" width="260" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="VTSQZOsR1ivxyoZBImd2-14" value="+ OnPlayerDied: FOnPlayerDiedSignature" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="VTSQZOsR1ivxyoZBImd2-13">
+          <mxGeometry y="26" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="VTSQZOsR1ivxyoZBImd2-15" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="VTSQZOsR1ivxyoZBImd2-13">
+          <mxGeometry y="52" width="260" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="VTSQZOsR1ivxyoZBImd2-16" value="+ RestartPlayer(AController* NewPlayer): void&lt;div&gt;+ PlayerDied(ACharacter* Character): void&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="VTSQZOsR1ivxyoZBImd2-13">
+          <mxGeometry y="60" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VTSQZOsR1ivxyoZBImd2-17" value="Call&amp;nbsp;RestartPlayer" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.004;exitY=0.58;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="VTSQZOsR1ivxyoZBImd2-12" target="VTSQZOsR1ivxyoZBImd2-13">
+          <mxGeometry x="0.0014" width="160" relative="1" as="geometry">
+            <mxPoint x="970" y="2640" as="sourcePoint" />
+            <mxPoint x="1130" y="2640" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
