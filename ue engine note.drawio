@@ -1249,8 +1249,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VTSQZOsR1ivxyoZBImd2-18" value="&lt;font style=&quot;font-size: 15px; color: light-dark(rgb(0, 0, 0), rgb(204, 102, 0));&quot;&gt;PlayerController 负责指导 Pawn，而拥有 Pawn 需要指定 PlayerController。&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px; color: light-dark(rgb(0, 0, 0), rgb(204, 102, 0));&quot;&gt;Pawn 本身不需要是人形角色，可以是 想要应用基本移动并允许玩家控制的任何东西&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1720" y="6850" width="580" height="50" as="geometry" />
+        <mxCell id="VTSQZOsR1ivxyoZBImd2-18" value="&lt;font style=&quot;font-size: 15px; color: light-dark(rgb(0, 0, 0), rgb(204, 102, 0));&quot;&gt;PlayerController 负责指导 Pawn，而拥有 Pawn 需要指定 PlayerController。&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px; color: light-dark(rgb(0, 0, 0), rgb(204, 102, 0));&quot;&gt;Pawn 本身不需要是人形角色，可以是 想要应用基本移动并允许玩家控制的任何东西；&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 0, 0));&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;可以Possess Pawns&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1715" y="6840" width="590" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
