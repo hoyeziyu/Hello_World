@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.2.9">
   <diagram name="第 1 页" id="zCJwgfAlIP9obnGPYDEz">
-    <mxGraphModel dx="7777" dy="5419" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7838" dy="5458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3033,6 +3033,9 @@
         <mxCell id="MkDUnRsj6bOqi4UdPTGo-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.018;entryY=0.43;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="MkDUnRsj6bOqi4UdPTGo-52" target="MkDUnRsj6bOqi4UdPTGo-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="xhMDqCHoYHoOQymWxkch-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MkDUnRsj6bOqi4UdPTGo-56" target="xhMDqCHoYHoOQymWxkch-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MkDUnRsj6bOqi4UdPTGo-56" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(191, 194, 207), rgb(255, 255, 255)); font-size: 20px;&quot; face=&quot;Open Sans&quot;&gt;variable&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="7592.5" y="6152" width="160" height="60" as="geometry" />
         </mxCell>
@@ -3928,7 +3931,7 @@
         <mxCell id="ponrFAroqCEGV2NPyS-h-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ponrFAroqCEGV2NPyS-h-22" target="ponrFAroqCEGV2NPyS-h-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9ie1G3hSZypzuccHy9I3-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;strokeWidth=3;dashed=1;dashPattern=8 8;strokeColor=light-dark(#000000,#FFFF00);" edge="1" parent="1" source="ponrFAroqCEGV2NPyS-h-22" target="CnsgR3omWf5fIddRjfHq-1">
+        <mxCell id="9ie1G3hSZypzuccHy9I3-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;strokeWidth=3;dashed=1;dashPattern=8 8;strokeColor=light-dark(#000000,#FFFF00);" parent="1" source="ponrFAroqCEGV2NPyS-h-22" target="CnsgR3omWf5fIddRjfHq-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2330" y="3150" as="targetPoint" />
             <Array as="points">
@@ -3937,7 +3940,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9ie1G3hSZypzuccHy9I3-2" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9ie1G3hSZypzuccHy9I3-1">
+        <mxCell id="9ie1G3hSZypzuccHy9I3-2" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="9ie1G3hSZypzuccHy9I3-1" vertex="1" connectable="0">
           <mxGeometry x="0.6606" y="-220" relative="1" as="geometry">
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
@@ -4109,7 +4112,7 @@
         <mxCell id="3kQKALVqJacFJ9RGYsuk-5" value="&lt;div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 255, 0));&quot;&gt;int main() {&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 255, 0));&quot;&gt;&amp;nbsp; int Number{2};&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 255, 0));&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 255, 0));&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 0, 0));&quot;&gt; [Number] &lt;/font&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 255, 0));&quot;&gt;{&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 255, 0));&quot;&gt;&amp;nbsp; &amp;nbsp; std::cout &amp;lt;&amp;lt; &quot;Number: &quot; &amp;lt;&amp;lt; Number;&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 255, 0));&quot;&gt;&amp;nbsp; };&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 255, 0));&quot;&gt;}&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff8000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 128, 0));&quot;&gt;//&amp;nbsp;为了让 lambda 访问其定义范围内的变量，我们需要捕获它们;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 128, 0));&quot;&gt;lambda 表达式中的 [] 是我们从想要使用的父范围捕获变量的地方；&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;&quot;&gt;&lt;font color=&quot;#ff8000&quot;&gt;lambda 表达式以 const 值捕获对象。意味着我们捕获的对象会被复制到 lambda 表达式中，从而阻止我们修改它们；&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;&quot;&gt;&lt;font color=&quot;#ff8000&quot;&gt;可以将 lambda 表达式标记为 mutable（实现修改这些副本）&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="11121.5" y="6784.5" width="640" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="9ie1G3hSZypzuccHy9I3-3" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="9ie1G3hSZypzuccHy9I3-3" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1000.0000000000002" y="2350" width="410" height="70" as="geometry" />
         </mxCell>
         <mxCell id="BDI2OwLqVcnIRvw2xMpS-68" value="&lt;span style=&quot;color: rgb(198, 193, 185); font-family: &amp;quot;Open Sans&amp;quot;; font-size: 14px; text-align: start; background-color: rgb(24, 26, 27);&quot;&gt;没有成员变量的类，其中&lt;/span&gt;&lt;em style=&quot;box-sizing: inherit; margin: 0px; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-variant-emoji: inherit; font-stretch: inherit; font-size: 14px; line-height: inherit; font-family: &amp;quot;Open Sans&amp;quot;; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; color: rgb(198, 193, 185); text-align: start; background-color: rgb(24, 26, 27);&quot; data-immersive-translate-walked=&quot;9f6465ca-bc3a-42af-b696-8b229f0831dc&quot;&gt;所有&lt;/em&gt;&lt;span style=&quot;color: rgb(198, 193, 185); font-family: &amp;quot;Open Sans&amp;quot;; font-size: 14px; text-align: start; background-color: rgb(24, 26, 27);&quot;&gt;函数都是纯虚拟&amp;nbsp;pure virtual；&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(198, 193, 185); font-family: &amp;quot;Open Sans&amp;quot;; font-size: 14px; text-align: start; background-color: rgb(24, 26, 27);&quot;&gt;子类必须提供全部纯虚函数的实现才可以实例化&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" parent="9ie1G3hSZypzuccHy9I3-3" vertex="1">
@@ -4118,11 +4121,20 @@
         <mxCell id="BDI2OwLqVcnIRvw2xMpS-70" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;; font-size: 14px; text-align: start;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(198, 193, 185), rgb(153, 255, 255));&quot;&gt;接口类也应该有一个虚析构函数&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;align=right;" parent="9ie1G3hSZypzuccHy9I3-3" vertex="1">
           <mxGeometry x="15.999999999999773" y="50" width="210" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="9ie1G3hSZypzuccHy9I3-5" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="9ie1G3hSZypzuccHy9I3-4" target="ponrFAroqCEGV2NPyS-h-41">
+        <mxCell id="9ie1G3hSZypzuccHy9I3-5" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" parent="1" source="9ie1G3hSZypzuccHy9I3-4" target="ponrFAroqCEGV2NPyS-h-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9ie1G3hSZypzuccHy9I3-4" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Open Sans&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;font color=&quot;#ce6100&quot;&gt;虚拟基类是仅包含一次的基类，无论它被对象继承多少次；&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 0, 0));&quot;&gt;解决钻石问题&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+        <mxCell id="9ie1G3hSZypzuccHy9I3-4" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Open Sans&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;font color=&quot;#ce6100&quot;&gt;虚拟基类是仅包含一次的基类，无论它被对象继承多少次；&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 0, 0));&quot;&gt;解决钻石问题&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="6690" y="9690" width="400" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xhMDqCHoYHoOQymWxkch-1" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Open Sans&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Static Member&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="7201.03" y="6120" width="127.28" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xhMDqCHoYHoOQymWxkch-4" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="xhMDqCHoYHoOQymWxkch-3" target="xhMDqCHoYHoOQymWxkch-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xhMDqCHoYHoOQymWxkch-3" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;#ff8000&quot; face=&quot;Open Sans&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;静态变量属于类本身，而不是该类的对象&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="6872.5" y="6052" width="290" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
