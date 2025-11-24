@@ -1133,6 +1133,9 @@
         <mxCell id="zeUiRGoc2OPzB2x74wYJ-2" edge="1" parent="1" source="u7kPQiartlnkpP8f5_0E-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="zeUiRGoc2OPzB2x74wYJ-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="83aoPoXec6YZOGZinA0V-2" edge="1" parent="1" source="u7kPQiartlnkpP8f5_0E-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="83aoPoXec6YZOGZinA0V-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="u7kPQiartlnkpP8f5_0E-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;模型加载&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="180" x="2782.34" y="-6279" as="geometry" />
         </mxCell>
@@ -2042,6 +2045,15 @@
         </mxCell>
         <mxCell id="zeUiRGoc2OPzB2x74wYJ-20" parent="1" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;#d47d25&quot; face=&quot;Gudea, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;关键帧是指动画中不同时间点的姿势。我们将通过代码对这些关键帧进行插值，实现姿势之间的平滑过渡&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="780" x="4680" y="-6240" as="geometry" />
+        </mxCell>
+        <mxCell id="83aoPoXec6YZOGZinA0V-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;坐标系&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="3110.0000000000005" y="-6100" as="geometry" />
+        </mxCell>
+        <mxCell id="83aoPoXec6YZOGZinA0V-4" edge="1" parent="1" source="83aoPoXec6YZOGZinA0V-3" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" target="83aoPoXec6YZOGZinA0V-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="83aoPoXec6YZOGZinA0V-3" parent="1" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;#cc6600&quot; face=&quot;Gudea, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;所有坐标系最终都指向同一个问题：这些坐标当前相对于哪个原点 (0, 0, 0) ？&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;#cc6600&quot; face=&quot;Gudea, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;一旦确定了这一点，可以根据需要通过矩阵将它们转换到其他向量空间&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="590" x="3361.4" y="-6170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
