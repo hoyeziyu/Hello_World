@@ -2090,6 +2090,12 @@
         <mxCell id="_sVG-ljGCfsyndKb4Hlm-10" parent="_sVG-ljGCfsyndKb4Hlm-12" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font style=&quot;color: light-dark(rgb(221, 218, 214), rgb(255, 0, 0)); font-size: 18px;&quot;&gt;.VS&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="50" x="564" as="geometry" />
         </mxCell>
+        <mxCell id="mNAbzCep7MS-z3LoB_eA-9" edge="1" parent="1" source="mNAbzCep7MS-z3LoB_eA-8" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" target="LMrTOW6nH9IcZZdsv8Me-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mNAbzCep7MS-z3LoB_eA-8" parent="1" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;article class=&quot;4ever-article&quot;&gt;&lt;span data-type=&quot;text&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 128, 0));&quot;&gt;阴影空间或光照空间中Shadow or light space，&lt;/font&gt;&lt;/span&gt;&lt;/article&gt;&lt;article class=&quot;4ever-article&quot;&gt;&lt;span data-type=&quot;text&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 128, 0));&quot;&gt;所有坐标都相对于光源light的位置（光源是原点）&lt;/font&gt;&lt;/span&gt;&lt;/article&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="300" x="2945.0000000000005" y="4072" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
