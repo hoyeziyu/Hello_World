@@ -209,8 +209,13 @@
         <mxCell id="C7zzktGETUTvHuBdlH-1-18" edge="1" parent="1" source="C7zzktGETUTvHuBdlH-1-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="C7zzktGETUTvHuBdlH-1-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="C7zzktGETUTvHuBdlH-1-19" connectable="0" parent="C7zzktGETUTvHuBdlH-1-18" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" value="&lt;span style=&quot;color: rgb(189, 183, 175); font-family: Gudea, sans-serif; font-size: 16px; text-align: start; text-wrap-mode: wrap; background-color: rgb(28, 64, 16);&quot;&gt;fragment&amp;nbsp;&lt;/span&gt;" vertex="1">
+        <mxCell id="C7zzktGETUTvHuBdlH-1-19" connectable="0" parent="C7zzktGETUTvHuBdlH-1-18" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" value="&lt;span style=&quot;color: rgb(189, 183, 175); font-family: Gudea, sans-serif; font-size: 16px; text-align: start; text-wrap-mode: wrap; background-color: rgb(28, 64, 16);&quot;&gt;fragment 作为输入&lt;/span&gt;" vertex="1">
           <mxGeometry relative="1" x="0.0333" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_aPyK0qkQrboG0gce6-a-7" connectable="0" parent="C7zzktGETUTvHuBdlH-1-18" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="片段着色器运行之前，会执行裁剪操作。裁剪会丢弃所有位于视图之外的片段fragment&amp;nbsp;" vertex="1">
+          <mxGeometry relative="1" x="-0.6532" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
