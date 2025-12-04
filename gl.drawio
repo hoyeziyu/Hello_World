@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.3">
   <diagram name="第 1 页" id="Benm36pr-1HBtlkhYLY8">
-    <mxGraphModel dx="3020" dy="7888" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3576" dy="8244" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -824,16 +824,16 @@
           <mxGeometry height="60" width="180" x="2620" y="3717" as="geometry" />
         </mxCell>
         <mxCell id="Il875BkISgsyEV4rqZKW-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;阴影贴图&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;（适用于定向灯/聚光灯）&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="57" width="194" x="3387.87" y="4015.1" as="geometry" />
+          <mxGeometry height="57" width="194" x="3392.87" y="4190" as="geometry" />
         </mxCell>
         <mxCell id="ZToTKuQLOw_KID1pe34j-31" edge="1" parent="1" source="Il875BkISgsyEV4rqZKW-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ZToTKuQLOw_KID1pe34j-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Il875BkISgsyEV4rqZKW-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="&lt;div&gt;&lt;font style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;font-family: Gudea, sans-serif; font-size: 16px; text-align: start;&quot;&gt;normal mapping&lt;/span&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 16px; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;法线贴图/凹凸贴图&lt;/font&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="60" width="180" x="2994.67" y="4462.1" as="geometry" />
+          <mxGeometry height="60" width="180" x="2996.4" y="4682.1" as="geometry" />
         </mxCell>
         <mxCell id="Il875BkISgsyEV4rqZKW-14" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="289.6500000000001" width="565" x="3661.87" y="3905.25" as="geometry" />
+          <mxGeometry height="289.6500000000001" width="565" x="3760" y="4125.25" as="geometry" />
         </mxCell>
         <mxCell id="Il875BkISgsyEV4rqZKW-12" connectable="0" parent="Il875BkISgsyEV4rqZKW-14" style="group" value="" vertex="1">
           <mxGeometry height="249.6500000000001" width="507" as="geometry" />
@@ -854,16 +854,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Il875BkISgsyEV4rqZKW-17" parent="1" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(222, 222, 222);&quot;&gt;由两个通道组成&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="120" x="4039.12" y="3852.9999999999995" as="geometry" />
+          <mxGeometry height="30" width="120" x="4137.25" y="4072.9999999999995" as="geometry" />
         </mxCell>
         <mxCell id="Il875BkISgsyEV4rqZKW-21" edge="1" parent="1" source="Il875BkISgsyEV4rqZKW-20" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" target="Il875BkISgsyEV4rqZKW-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Il875BkISgsyEV4rqZKW-20" parent="1" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;Gudea, sans-serif&quot; color=&quot;#34312e&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: rgb(205, 207, 209);&quot;&gt;光空间变换（&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: rgb(34, 36, 38); color: rgb(221, 218, 214); font-family: Gudea, sans-serif; font-size: 16px;&quot;&gt;确保设置适当的投影和视图矩阵&lt;/span&gt;&lt;span style=&quot;background-color: rgb(205, 207, 209); font-size: 16px; color: rgb(52, 49, 46); font-family: Gudea, sans-serif;&quot;&gt;）&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="380" x="4193.12" y="3852.9999999999995" as="geometry" />
+          <mxGeometry height="30" width="380" x="4291.25" y="4072.9999999999995" as="geometry" />
         </mxCell>
         <mxCell id="Il875BkISgsyEV4rqZKW-23" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="93" width="370.75" x="4193.12" y="3709.9999999999995" as="geometry" />
+          <mxGeometry height="93" width="370.75" x="4291.25" y="3929.9999999999995" as="geometry" />
         </mxCell>
         <mxCell id="Il875BkISgsyEV4rqZKW-18" parent="Il875BkISgsyEV4rqZKW-23" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="&lt;span style=&quot;color: rgb(221, 218, 214); font-family: Gudea, sans-serif; font-size: 16px; text-align: start; background-color: rgb(34, 36, 38);&quot;&gt;深度图&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="90" y="63" as="geometry" />
@@ -878,19 +878,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LMrTOW6nH9IcZZdsv8Me-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;阴影&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;shadow&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="180" x="2994.6699999999996" y="4122.1" as="geometry" />
+          <mxGeometry height="60" width="180" x="2999.6699999999996" y="4297" as="geometry" />
         </mxCell>
         <mxCell id="LMrTOW6nH9IcZZdsv8Me-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;点阴影point shadow&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;（适用于&lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-size: 16px;&quot;&gt;点光源&lt;/span&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;）&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="180" x="3387.87" y="4202.1" as="geometry" />
+          <mxGeometry height="60" width="180" x="3392.87" y="4377" as="geometry" />
         </mxCell>
         <mxCell id="LMrTOW6nH9IcZZdsv8Me-8" edge="1" parent="1" source="LMrTOW6nH9IcZZdsv8Me-7" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" target="Il875BkISgsyEV4rqZKW-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LMrTOW6nH9IcZZdsv8Me-7" parent="1" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(255, 244, 246), rgb(255, 255, 255));&quot; face=&quot;Gudea, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;从光的角度考虑：物体表面如何被照亮为完全平坦的表面？答案是由于物体表面的法向量&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;font-size: 16px; font-family: Gudea, sans-serif; background-color: transparent;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 244, 246));&quot;&gt;从照明技术的角度来看，它决定物体形状的&lt;/font&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 0, 0));&quot;&gt;唯一方法&lt;/font&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 244, 246));&quot;&gt;是通过它的垂直法向量&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: transparent; font-size: 16px;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 244, 246));&quot; face=&quot;Gudea, sans-serif&quot;&gt;通过使用每个片段的法线，我们可以欺骗照明，让它相信一个表面是由微小的平面（垂直于法线向量）组成的&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="70" width="810" x="3228.12" y="4352.1" as="geometry" />
+          <mxGeometry height="70" width="810" x="3229.85" y="4572.1" as="geometry" />
         </mxCell>
         <mxCell id="LMrTOW6nH9IcZZdsv8Me-9" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillStyle=solid;direction=west;gradientDirection=north;shadow=1;size=20;pointerEvents=1;labelBackgroundColor=none;" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;Gudea, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: rgb(170, 201, 160);&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(84, 79, 72), rgb(255, 0, 0));&quot;&gt;只改变每个片段的法向量，所以不需要改变照明方程（&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: rgb(24, 26, 27); color: rgb(232, 230, 227); font-family: Helvetica, Arial, sans-serif; font-size: 16px;&quot;&gt;每个顶点只有一条法线&lt;/span&gt;&lt;span style=&quot;background-color: light-dark(rgb(170, 201, 160), rgb(54, 81, 45)); font-size: 14px; color: light-dark(rgb(84, 79, 72), rgb(172, 168, 162)); font-family: Gudea, sans-serif;&quot;&gt;）&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="380" x="3241.87" y="4422.1" as="geometry" />
+          <mxGeometry height="50" width="380" x="3243.6" y="4642.1" as="geometry" />
         </mxCell>
         <mxCell id="2LxfDStiluzhHC5bgg7s-2" edge="1" parent="1" source="5TdQqByTQvm9FEfxZIQ--5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=379;entryDy=55;entryPerimeter=0;" target="2LxfDStiluzhHC5bgg7s-1">
           <mxGeometry relative="1" as="geometry" />
@@ -1463,6 +1463,9 @@
         <mxCell id="s6NGSIRNV7IqtMOkdDAz-5" edge="1" parent="1" source="ZToTKuQLOw_KID1pe34j-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="s6NGSIRNV7IqtMOkdDAz-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="xkXpPHs20w3ZPExMT7vy-4" edge="1" parent="1" source="ZToTKuQLOw_KID1pe34j-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="xkXpPHs20w3ZPExMT7vy-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZToTKuQLOw_KID1pe34j-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Gamma Correction&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;伽玛校正&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="180" x="3011.1199999999994" y="3717.0000000000005" as="geometry" />
         </mxCell>
@@ -1470,7 +1473,7 @@
           <mxGeometry height="60" width="180" x="2994.6700000000005" y="5040" as="geometry" />
         </mxCell>
         <mxCell id="ZToTKuQLOw_KID1pe34j-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;align=center;" value="&lt;span style=&quot;color: rgb(221, 218, 214); font-family: Gudea, sans-serif; font-size: 16px; background-color: rgb(34, 36, 38);&quot;&gt;Tangent space&lt;/span&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Gudea, sans-serif&quot; color=&quot;#34312e&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: rgb(205, 207, 209);&quot;&gt;切线空间&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="180" x="3241.87" y="4560" as="geometry" />
+          <mxGeometry height="60" width="180" x="3243.6" y="4780" as="geometry" />
         </mxCell>
         <mxCell id="jp56ymyZ_c_8mXn9N4VT-2" edge="1" parent="1" source="jp56ymyZ_c_8mXn9N4VT-1" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" target="ZToTKuQLOw_KID1pe34j-28">
           <mxGeometry relative="1" as="geometry" />
@@ -2007,7 +2010,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mNAbzCep7MS-z3LoB_eA-8" parent="1" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;article class=&quot;4ever-article&quot;&gt;&lt;span data-type=&quot;text&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 128, 0));&quot;&gt;阴影空间或光照空间中Shadow or light space，&lt;/font&gt;&lt;/span&gt;&lt;/article&gt;&lt;article class=&quot;4ever-article&quot;&gt;&lt;span data-type=&quot;text&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 128, 0));&quot;&gt;所有坐标都相对于光源light的位置（光源是原点）&lt;/font&gt;&lt;/span&gt;&lt;/article&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="300" x="2945.0000000000005" y="4072" as="geometry" />
+          <mxGeometry height="40" width="300" x="2950.0000000000005" y="4246.9" as="geometry" />
         </mxCell>
         <mxCell id="_aPyK0qkQrboG0gce6-a-3" edge="1" parent="1" source="_aPyK0qkQrboG0gce6-a-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="C7zzktGETUTvHuBdlH-1-4">
           <mxGeometry relative="1" as="geometry" />
@@ -2279,10 +2282,10 @@
         <mxCell id="s6NGSIRNV7IqtMOkdDAz-2" edge="1" parent="1" source="s6NGSIRNV7IqtMOkdDAz-1" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" target="ZToTKuQLOw_KID1pe34j-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="s6NGSIRNV7IqtMOkdDAz-1" parent="1" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;font color=&quot;#ce6100&quot; face=&quot;Gudea, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;本质上，它归根结底就是了解某种颜色所在的色彩空间，以及如何将该颜色转换为所需的色彩空间&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="730" x="3240" y="3620" as="geometry" />
+        <mxCell id="s6NGSIRNV7IqtMOkdDAz-1" parent="1" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;font color=&quot;#ce6100&quot; face=&quot;Gudea, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;本质上，它归根结底就是了解某种颜色所在的色彩空间，以及如何将该颜色转换为所需的色彩空间&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;font face=&quot;Gudea, sans-serif&quot;&gt;&lt;font color=&quot;#dc7e2b&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;每台显示器都有其自身的伽玛曲线(用于&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; font-size: 16px;&quot;&gt;&lt;font color=&quot;#ba6922&quot; face=&quot;Gudea, sans-serif&quot;&gt;解决人眼感知亮度与物理光强之间的非线性关系，确保图像在不同设备上显示时保持视觉一致性和真实感&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 16px; color: light-dark(rgb(220, 126, 43), rgb(186, 105, 34)); font-family: Gudea, sans-serif; background-color: transparent;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font face=&quot;Gudea, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(186, 105, 34), rgb(255, 0, 0));&quot;&gt;伽马校正会将颜色从线性空间转换为非线性空间，因此务必仅在最后一步进行伽马校正(仅在最后一个帧缓冲区将结果发送到显示器之前应用伽马校正)&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="1090" x="3235" y="3590" as="geometry" />
         </mxCell>
-        <mxCell id="s6NGSIRNV7IqtMOkdDAz-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;sRGB (standard Red Green Blue) and RGB&lt;/span&gt;" vertex="1">
+        <mxCell id="s6NGSIRNV7IqtMOkdDAz-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;sRGB (standard Red Green Blue) and RGB（非线性空间）&lt;/span&gt;" vertex="1">
           <mxGeometry height="42" width="274.49" x="3502.6200000000003" y="3680.63" as="geometry" />
         </mxCell>
         <mxCell id="s6NGSIRNV7IqtMOkdDAz-6" edge="1" parent="1" source="s6NGSIRNV7IqtMOkdDAz-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="s6NGSIRNV7IqtMOkdDAz-3">
@@ -2294,7 +2297,7 @@
         <mxCell id="s6NGSIRNV7IqtMOkdDAz-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;颜色空间&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;color space种类&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="110" x="3300" y="3777" as="geometry" />
         </mxCell>
-        <mxCell id="s6NGSIRNV7IqtMOkdDAz-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;linear&lt;/span&gt;" vertex="1">
+        <mxCell id="s6NGSIRNV7IqtMOkdDAz-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;linear（线性空间，符合物理世界）&lt;/span&gt;" vertex="1">
           <mxGeometry height="42" width="274.49" x="3502.62" y="3776" as="geometry" />
         </mxCell>
         <mxCell id="s6NGSIRNV7IqtMOkdDAz-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;align=center;" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;high dynamic range (HDR)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;高动态范围&lt;/span&gt;&lt;/div&gt;" vertex="1">
@@ -2317,6 +2320,27 @@
         </mxCell>
         <mxCell id="s6NGSIRNV7IqtMOkdDAz-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;align=center;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;screen-space ambient occlusion (SSAO)&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;屏幕空间环境光遮蔽&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="245.33" x="2994.67" y="6760" as="geometry" />
+        </mxCell>
+        <mxCell id="xkXpPHs20w3ZPExMT7vy-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 16px; caret-color: rgba(0, 0, 0, 0);&quot;&gt;如何对场景进行伽马校正？&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="208.19" x="3267.87" y="3957" as="geometry" />
+        </mxCell>
+        <mxCell id="xkXpPHs20w3ZPExMT7vy-7" edge="1" parent="1" source="xkXpPHs20w3ZPExMT7vy-5" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" target="xkXpPHs20w3ZPExMT7vy-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xkXpPHs20w3ZPExMT7vy-5" parent="1" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;font color=&quot;#dc7e2b&quot; face=&quot;Gudea, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;a.&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; font-size: 16px;&quot;&gt;&lt;font color=&quot;#dc7e2b&quot; face=&quot;Gudea, sans-serif&quot;&gt;通过使用 OpenGL 内置的 sRGB 帧缓冲区支持（硬件完成）&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="480" x="3537.9100000000003" y="3900" as="geometry" />
+        </mxCell>
+        <mxCell id="xkXpPHs20w3ZPExMT7vy-8" edge="1" parent="1" source="xkXpPHs20w3ZPExMT7vy-6" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" target="xkXpPHs20w3ZPExMT7vy-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xkXpPHs20w3ZPExMT7vy-6" parent="1" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=left;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#ba6922&quot; face=&quot;Gudea, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;b.&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; font-size: 16px;&quot;&gt;&lt;font color=&quot;#ba6922&quot; face=&quot;Gudea, sans-serif&quot;&gt;通过在片段&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-size: 16px;&quot;&gt;&lt;font color=&quot;#ba6922&quot; face=&quot;Gudea, sans-serif&quot;&gt;fragment&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(186, 105, 34); font-family: Gudea, sans-serif; background-color: transparent; font-size: 16px;&quot;&gt;着色器中自行进行伽马校正；&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(186, 105, 34); font-family: Gudea, sans-serif; background-color: transparent; font-size: 16px;&quot;&gt;eg : 如果有十几个片段着色器，则必须为每个着色器添加伽马校正代码。&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(186, 105, 34); font-family: Gudea, sans-serif; background-color: transparent; font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;一个更简单的解决方案是在渲染循环中引入一个后处理阶段&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="550" x="3549.45" y="3957" as="geometry" />
+        </mxCell>
+        <mxCell id="xkXpPHs20w3ZPExMT7vy-10" edge="1" parent="1" source="xkXpPHs20w3ZPExMT7vy-9" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" target="s6NGSIRNV7IqtMOkdDAz-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xkXpPHs20w3ZPExMT7vy-9" parent="1" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=left;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#ba6922&quot; face=&quot;Gudea, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;a. 确保在线性空间工作，避免多次&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; font-size: 16px;&quot;&gt;&lt;font color=&quot;#c47e41&quot; face=&quot;Gudea, sans-serif&quot;&gt;伽玛校正；&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font face=&quot;Gudea, sans-serif&quot;&gt;&lt;font&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(171, 111, 59), rgb(255, 0, 0));&quot;&gt;&amp;nbsp; &amp;nbsp; GL_SRGB 和 GL_SRGB_ALPHA纹理，OpenGL 会在使用时自动将颜色校正到线性空间&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 128, 0));&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font face=&quot;Gudea, sans-serif&quot;&gt;&lt;font&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;&quot;&gt;b.&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-size: 16px;&quot;&gt;&lt;font face=&quot;Gudea, sans-serif&quot;&gt;光照衰减&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="670" x="3823.81" y="3670" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
