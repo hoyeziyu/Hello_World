@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.9">
   <diagram name="第 1 页" id="zCJwgfAlIP9obnGPYDEz">
-    <mxGraphModel dx="7839" dy="5409" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7280" dy="5074" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1920,7 +1920,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="45hjtaBN1t99nHWNV-H1-48" parent="1" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;Open Sans&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;a.&amp;nbsp;&lt;/span&gt;&lt;/font&gt;将符号声明为&amp;nbsp;&lt;code data-immersive-translate-walked=&quot;aad8dc1c-8c1f-47b0-940d-4c46150aee46&quot;&gt;__declspec(dllexport)&lt;/code&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="260" x="9635" y="570" as="geometry" />
+          <mxGeometry height="30" width="260" x="9638.3" y="555" as="geometry" />
         </mxCell>
         <mxCell id="-RDARNAjes8Kb4FSawAM-1" edge="1" parent="1" source="Pvb7XkKKDdEXnkuy6YKq-35" style="endArrow=classic;html=1;rounded=0;curved=1;entryX=1;entryY=0;entryDx=0;entryDy=0;fillColor=#a20025;strokeColor=#6F0000;strokeWidth=3;" target="Pvb7XkKKDdEXnkuy6YKq-17" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -4470,6 +4470,9 @@
         </mxCell>
         <mxCell id="G24NXRlmei9HCfWzZMeY-27" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=left;" value="&quot;forward-declare&quot;将在其他地方定义的函数，同样extern处理变量" vertex="1">
           <mxGeometry height="140" width="260" x="14460" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="f6xLOCGiaXJPrnbcuWFP-1" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;verticalAlign=top;align=left;" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; font-size: 10px;&quot;&gt;&lt;font face=&quot;Open Sans&quot; style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 128, 0));&quot;&gt;当我们希望某个符号对共享库的使用者可见时，我们需要显式地导出export它；&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; font-size: 10px;&quot;&gt;&lt;font face=&quot;Open Sans&quot; style=&quot;&quot;&gt;&lt;div style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 255, 0));&quot;&gt;// This symbol should be visible to consumers&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(204, 0, 0));&quot;&gt;__declspec(dllexport) &lt;/font&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 255, 0));&quot;&gt;void some_function() {&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 255, 0));&quot;&gt;&amp;nbsp; // ...&lt;/div&gt;&lt;div style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 255, 0));&quot;&gt;}&lt;/div&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; font-size: 10px;&quot;&gt;&lt;font face=&quot;Open Sans&quot; style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 128, 0));&quot;&gt;当我们使用的符号定义在共享库中时，我们需要显式地导入import它&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; font-size: 10px;&quot;&gt;&lt;font face=&quot;Open Sans&quot;&gt;&lt;div style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 255, 0));&quot;&gt;// This symbol will come from a shared library&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 0, 0));&quot;&gt;__declspec(dllimport)&lt;/font&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 255, 0));&quot;&gt; void some_function();&lt;/font&gt;&lt;/div&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="133.5" width="355" x="9640.5" y="586.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
