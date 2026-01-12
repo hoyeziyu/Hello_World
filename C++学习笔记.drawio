@@ -4374,6 +4374,9 @@
         <mxCell id="qt5qtSgCwBgFFS94Zn8Z-4" edge="1" parent="1" source="qt5qtSgCwBgFFS94Zn8Z-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="qt5qtSgCwBgFFS94Zn8Z-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="fBcGGrXXOLy0rHA4Bt2I-25" edge="1" parent="1" source="qt5qtSgCwBgFFS94Zn8Z-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="fBcGGrXXOLy0rHA4Bt2I-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qt5qtSgCwBgFFS94Zn8Z-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: transparent; font-size: 16px;&quot;&gt;&lt;font face=&quot;Open Sans&quot;&gt;CMakeLists.txt语法&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="185" x="11652.5" y="3115" as="geometry" />
         </mxCell>
@@ -4504,13 +4507,13 @@
           <mxGeometry height="30" width="90" x="12420" y="3050" as="geometry" />
         </mxCell>
         <mxCell id="fBcGGrXXOLy0rHA4Bt2I-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Open Sans&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;static&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Open Sans&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;静态库&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="61" width="150" x="12650" y="2978.5" as="geometry" />
+          <mxGeometry height="61" width="150" x="12650" y="2849.5" as="geometry" />
         </mxCell>
         <mxCell id="fBcGGrXXOLy0rHA4Bt2I-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Open Sans&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;dynamic&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Open Sans&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;动态库&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="61" width="150" x="12650" y="3149.5" as="geometry" />
+          <mxGeometry height="61" width="150" x="12650" y="2930" as="geometry" />
         </mxCell>
         <mxCell id="fBcGGrXXOLy0rHA4Bt2I-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Open Sans&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;exe&lt;br&gt;可执行文件&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="61" width="150" x="12650" y="2821.5" as="geometry" />
+          <mxGeometry height="61" width="150" x="12650" y="2760" as="geometry" />
         </mxCell>
         <mxCell id="fBcGGrXXOLy0rHA4Bt2I-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;使用要求 和 属性&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="130" x="12420" y="2740" as="geometry" />
@@ -4522,7 +4525,28 @@
           <mxGeometry height="80" width="860" x="12590" y="2650" as="geometry" />
         </mxCell>
         <mxCell id="fBcGGrXXOLy0rHA4Bt2I-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Open Sans&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;INTERFACE&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Open Sans&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;接口库&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="61" width="150" x="12650" y="3287.5" as="geometry" />
+          <mxGeometry height="61" width="150" x="12650" y="3020" as="geometry" />
+        </mxCell>
+        <mxCell id="fBcGGrXXOLy0rHA4Bt2I-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;下载依赖的第三方库存在形式&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="210" x="12080" y="3260" as="geometry" />
+        </mxCell>
+        <mxCell id="fBcGGrXXOLy0rHA4Bt2I-27" edge="1" parent="1" source="fBcGGrXXOLy0rHA4Bt2I-26" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" target="fBcGGrXXOLy0rHA4Bt2I-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fBcGGrXXOLy0rHA4Bt2I-26" parent="1" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;font face=&quot;Open Sans&quot; style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 128, 0));&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;1.&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; text-align: center; font-size: 14px;&quot;&gt;&lt;font face=&quot;Open Sans&quot; style=&quot;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 128, 0));&quot;&gt;除了已编译的库文件（例如 .a 或 .lib 文件）之外，还需包含一个或多个头文件 &lt;/font&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 0, 0));&quot;&gt;【&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 0, 0));&quot;&gt;&lt;span style=&quot;background-color: transparent; text-align: center; font-size: 14px;&quot;&gt;&lt;font face=&quot;Open Sans&quot;&gt;IMPORTED 实现&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;; background-color: transparent; font-size: 14px; text-align: center;&quot;&gt;】&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="670" x="12350" y="3190" as="geometry" />
+        </mxCell>
+        <mxCell id="fBcGGrXXOLy0rHA4Bt2I-29" edge="1" parent="1" source="fBcGGrXXOLy0rHA4Bt2I-28" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" target="fBcGGrXXOLy0rHA4Bt2I-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fBcGGrXXOLy0rHA4Bt2I-28" parent="1" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 128, 0));&quot;&gt;&lt;font face=&quot;Open Sans&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;2.&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; text-align: center; font-size: 14px;&quot;&gt;&lt;font face=&quot;Open Sans&quot;&gt;除了库源代码之外，还需要一个或多个头文件。这使我们能够自行编译库&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="500" x="12360" y="3270" as="geometry" />
+        </mxCell>
+        <mxCell id="fBcGGrXXOLy0rHA4Bt2I-31" edge="1" parent="1" source="fBcGGrXXOLy0rHA4Bt2I-30" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" target="fBcGGrXXOLy0rHA4Bt2I-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fBcGGrXXOLy0rHA4Bt2I-30" parent="1" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;font face=&quot;Open Sans&quot; style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 128, 0));&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;3.&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; text-align: center; font-size: 14px;&quot;&gt;&lt;font face=&quot;Open Sans&quot; style=&quot;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 128, 0));&quot;&gt;一个或多个头文件，无需其他库文件或源代码。这被称为“仅头文件”库&lt;/font&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(204, 0, 0));&quot;&gt; 【&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(204, 0, 0));&quot;&gt;&lt;span style=&quot;background-color: transparent; text-align: center; font-size: 14px;&quot;&gt;&lt;font face=&quot;Open Sans&quot;&gt;INTERFACE 实现&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;; background-color: transparent; font-size: 14px; text-align: center;&quot;&gt;】&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="640" x="12360" y="3340" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
